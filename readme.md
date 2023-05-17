@@ -1,8 +1,14 @@
 # Submit websites to be crawled by Marginalia Search
 
+There are a few options for submitting websites for crawling by Marginalia Search.
+
 ## Option A:
 
-Search for your website on Marginalia Search using the search bar at the top of the page. Prefix the domain name with `site:yoursite.com`. Try also `www.yoursite.com`. If it is already known by the search engine, a button will appear where you can add the site manually.
+If the website is already known, you can do it directly from the search engine website.
+
+Search for your website on Marginalia Search using the search bar at the top of the page. 
+Prefix the domain name with `site:`, like `site:yoursite.com`. Try also various subdomains, like `site:www.yoursite.com`. 
+If it is already known by the search engine, a button will appear where you can add the site manually.
 
 ![](submit-dialog.webp)
 
