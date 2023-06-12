@@ -9,3 +9,5 @@
 # Sites:
 
 diyarciftci.xyz
+disinfo.zone
+divination.disinfo.zone
