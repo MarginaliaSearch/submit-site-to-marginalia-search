@@ -6,14 +6,24 @@
 # if not
 # www.example.com is sufficient
 
-# Sites:
+# Sites To Add:
+
 paperclipmaximizer.net
+www.2uo.de
+
+# -- end --
+
+#
+# Entries below this line are added to the set to be crawled in June 2023 
+# and will shop up in the index soon.  Keeping them for verification purposes.
+#
+# -------------------------------------------------------------------------
+
 diyarciftci.xyz
 disinfo.zone
 divination.disinfo.zone
 macroexpand.net
 gallery-mental.neocities.org
-
 robotsinplainenglish.com 
 holzer.online
 laravista.altervista.org/L8x/searchdown
@@ -27,4 +37,4 @@ forwardemail.net
 bhankas.org
 xnacly.me
 pbement.com
-www.2uo.de
+
