@@ -7,7 +7,9 @@
 # www.example.com is sufficient
 
 # Sites To Add:
-
+costacoders.es
+neter.fi
+rukii.net
 covacha.net.ar
 paperclipmaximizer.net
 www.2uo.de
