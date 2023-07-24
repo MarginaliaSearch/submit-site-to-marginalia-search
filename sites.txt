@@ -49,6 +49,7 @@ godsped.com
 blog.neuenet.com
 expara.social
 refereeingandreflection.wordpress.com
+www.quaddicted.com
 # -- end --
 
 #
