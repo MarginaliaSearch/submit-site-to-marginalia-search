@@ -7,6 +7,16 @@
 # www.example.com is sufficient
 
 # Sites To Add:
+
+# -- end --
+
+#
+# Entries below this line are added to the set to be crawled in June 2023 
+# and will shop up in the index soon.  Keeping them for verification purposes.
+#
+# -------------------------------------------------------------------------
+
+- - - - - -
 ports.serenityos.net
 costacoders.es
 neter.fi
@@ -50,14 +60,7 @@ blog.neuenet.com
 expara.social
 refereeingandreflection.wordpress.com
 www.quaddicted.com
-# -- end --
-
-#
-# Entries below this line are added to the set to be crawled in June 2023 
-# and will shop up in the index soon.  Keeping them for verification purposes.
-#
-# -------------------------------------------------------------------------
-
+- - - - - -
 diyarciftci.xyz
 disinfo.zone
 divination.disinfo.zone
