@@ -8,6 +8,8 @@
 
 # Sites To Add:
 
+libera.solucioneslibres.com
+
 # -- end --
 
 #
@@ -85,5 +87,3 @@ bhankas.org
 xnacly.me
 pbement.com
 
-# To be crawled.
-libera.solucioneslibres.com
