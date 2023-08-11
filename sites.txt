@@ -9,6 +9,7 @@
 # Sites To Add:
 
 libera.solucioneslibres.com
+ethanleitch.dev
 
 # -- end --
 
