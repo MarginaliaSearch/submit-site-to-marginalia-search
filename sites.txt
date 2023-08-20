@@ -11,6 +11,7 @@
 libera.solucioneslibres.com
 ethanleitch.dev
 heonian.org
+blog.movimento-centrale.it
 
 # -- end --
 
