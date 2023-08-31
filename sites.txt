@@ -14,6 +14,7 @@ heonian.org
 blog.movimento-centrale.it
 www.stegriff.co.uk
 sugradh.com
+simpatico.io
 
 # -- end --
 
