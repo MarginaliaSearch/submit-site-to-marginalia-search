@@ -8,19 +8,25 @@
 
 # Sites To Add:
 
+www.cosmicbagel.com
+
+# -- end --
+
+#
+# Entries below this line are added to the set to be crawled in September 2023 
+# and will shop up in the index soon.  Keeping them for verification purposes.
+#
+# -------------------------------------------------------------------------
+
 libera.solucioneslibres.com
 ethanleitch.dev
 heonian.org
 blog.movimento-centrale.it
 www.stegriff.co.uk
-
 carlseleborg.com
 sugradh.com
 simpatico.io
 www.madhadron.com
-www.cosmicbagel.com
-
-# -- end --
 
 #
 # Entries below this line are added to the set to be crawled in July 2023 
