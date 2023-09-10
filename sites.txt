@@ -9,6 +9,7 @@
 # Sites To Add:
 
 www.cosmicbagel.com
+itsjake.me
 
 # -- end --
 
