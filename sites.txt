@@ -10,12 +10,13 @@
 
 www.cosmicbagel.com
 itsjake.me
+blog.nawaz.org
 
 # -- end --
 
 #
 # Entries below this line are added to the set to be crawled in September 2023 
-# and will shop up in the index soon.  Keeping them for verification purposes.
+# and will show up in the index soon.  Keeping them for verification purposes.
 #
 # -------------------------------------------------------------------------
 
@@ -31,7 +32,7 @@ www.madhadron.com
 
 #
 # Entries below this line are added to the set to be crawled in July 2023 
-# and will shop up in the index soon.  Keeping them for verification purposes.
+# and will show up in the index soon.  Keeping them for verification purposes.
 #
 # -------------------------------------------------------------------------
 
@@ -81,7 +82,7 @@ www.quaddicted.com
 
 #
 # Entries below this line are added to the set to be crawled in June 2023 
-# and will shop up in the index soon.  Keeping them for verification purposes.
+# and will show up in the index soon.  Keeping them for verification purposes.
 #
 # -------------------------------------------------------------------------
 
