@@ -14,6 +14,7 @@ itsjake.me
 blog.nawaz.org
 eugentoptic44.codeberg.page
 www.aylett.co.uk
+wronex.com
 
 # -- end --
 
