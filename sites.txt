@@ -13,6 +13,7 @@ www.cosmicbagel.com
 itsjake.me
 blog.nawaz.org
 eugentoptic44.codeberg.page
+wronex.com
 
 # -- end --
 
