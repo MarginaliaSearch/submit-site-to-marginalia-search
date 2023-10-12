@@ -17,6 +17,7 @@ www.hackerspace.cl
 www.aylett.co.uk
 wronex.com
 italianpoetry.it
+chaotic.ninja
 
 # -- end --
 
