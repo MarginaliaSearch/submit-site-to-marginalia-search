@@ -2,12 +2,17 @@
 # Lines starting with '#' as well as blank lines are ignored
  
 # If your site listens to an unusual port, add it on the form of
+#
 # https://www.example.com:8081/
-# if not
-# www.example.com is sufficient
+#   else 
+# www.example.com 
+#   ... is sufficient
+
+# Sites will be fetched and crawled from this list
 
 # Sites To Add:
 
+adminlibre.org 
 beybladeanime.com
 www.cosmicbagel.com
 itsjake.me
@@ -20,15 +25,6 @@ italianpoetry.it
 chaotic.ninja
 bartekmuracki.com
 reggaenet.org
-
-# -- end --
-
-#
-# Entries below this line are added to the set to be crawled in September 2023 
-# and will show up in the index soon.  Keeping them for verification purposes.
-#
-# -------------------------------------------------------------------------
-
 libera.solucioneslibres.com
 ethanleitch.dev
 heonian.org
@@ -38,13 +34,6 @@ carlseleborg.com
 sugradh.com
 simpatico.io
 www.madhadron.com
-
-#
-# Entries below this line are added to the set to be crawled in July 2023 
-# and will show up in the index soon.  Keeping them for verification purposes.
-#
-# -------------------------------------------------------------------------
-
 ports.serenityos.net
 costacoders.es
 neter.fi
@@ -88,13 +77,6 @@ blog.neuenet.com
 expara.social
 refereeingandreflection.wordpress.com
 www.quaddicted.com
-
-#
-# Entries below this line are added to the set to be crawled in June 2023 
-# and will show up in the index soon.  Keeping them for verification purposes.
-#
-# -------------------------------------------------------------------------
-
 diyarciftci.xyz
 disinfo.zone
 divination.disinfo.zone
@@ -113,4 +95,3 @@ forwardemail.net
 bhankas.org
 xnacly.me
 pbement.com
-
