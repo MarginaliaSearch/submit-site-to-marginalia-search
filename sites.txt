@@ -11,6 +11,8 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+bb89.nl
+fragglejazz.nl
 www.getitfree.nl
 borne.nl
 groenlinks.nl
