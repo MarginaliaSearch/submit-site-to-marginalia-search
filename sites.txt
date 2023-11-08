@@ -11,7 +11,12 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
-
+www.getitfree.nl
+borne.nl
+groenlinks.nl
+tubantia.nl
+borneboeit.nl
+bornebeweegt.nl
 adminlibre.org 
 beybladeanime.com
 www.cosmicbagel.com
