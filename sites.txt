@@ -11,6 +11,8 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+invariance.ceu.su
+mrtno.com
 bb89.nl
 fragglejazz.nl
 www.getitfree.nl
