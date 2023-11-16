@@ -11,6 +11,7 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+garrido.io
 invariance.ceu.su
 mrtno.com
 bb89.nl
