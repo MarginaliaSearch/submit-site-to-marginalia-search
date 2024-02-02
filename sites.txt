@@ -11,6 +11,7 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+www,ninjazumbi.com
 garrido.io
 invariance.ceu.su
 mrtno.com
