@@ -167,3 +167,5 @@ www.archaeoramblings.com
 blog.burakcankus.com
 burakcankus.com
 btxx.org
+matthewfells.com
+voxel.wiki
