@@ -169,3 +169,5 @@ burakcankus.com
 btxx.org
 matthewfells.com
 voxel.wiki
+bauer.codes
+notes.bauer.codes
