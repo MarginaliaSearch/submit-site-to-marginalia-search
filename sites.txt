@@ -11,6 +11,7 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+robkohr.com
 10maurycy10.github.io
 www,ninjazumbi.com
 garrido.io
@@ -156,6 +157,7 @@ www.mormoroi.com
 mormoroi.com
 jorisbukala.com
 wildflower.work
+rayberger.org
 ikesau.co
 fanty.xyz
 www.ziritione.org
@@ -170,3 +172,10 @@ btxx.org
 matthewfells.com
 voxel.wiki
 lukaswerner.com
+jnthn.me
+darrennathanael.com
+blog.darrennathanael.com
+www.makeworld.space
+mopacic.net
+mcpar.land
+graphicalmethods.com
