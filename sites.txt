@@ -198,3 +198,5 @@ moth.monster
 asozial.org
 beefox.xyz
 b-ring.nl
+rooiratel.red
+sacred.neocities.org
