@@ -20,6 +20,8 @@ invariance.ceu.su
 mrtno.com
 bb89.nl
 fragglejazz.nl
+blog.philz.dev
+philz.dev
 www.getitfree.nl
 borne.nl
 groenlinks.nl
@@ -233,3 +235,8 @@ cotcli.com
 aikidomontreal.com
 jonathan-frere.com
 jonblack.gg
+oddlypresent.com
+lmao.ovh
+whatdidyouexpect.eu
+moxk.net
+darren.me
