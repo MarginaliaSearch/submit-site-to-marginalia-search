@@ -1,11 +1,11 @@
 # Add your sites here
 # Lines starting with '#' as well as blank lines are ignored
- 
+
 # If your site listens to an unusual port, add it on the form of
 #
 # https://www.example.com:8081/
-#   else 
-# www.example.com 
+#   else
+# www.example.com
 #   ... is sufficient
 
 # Sites will be fetched and crawled from this list
@@ -28,7 +28,7 @@ groenlinks.nl
 tubantia.nl
 borneboeit.nl
 bornebeweegt.nl
-adminlibre.org 
+adminlibre.org
 beybladeanime.com
 www.cosmicbagel.com
 itsjake.me
@@ -98,7 +98,7 @@ disinfo.zone
 divination.disinfo.zone
 macroexpand.net
 gallery-mental.neocities.org
-robotsinplainenglish.com 
+robotsinplainenglish.com
 holzer.online
 laravista.altervista.org/L8x/searchdown
 www.bytefish.de
@@ -257,3 +257,7 @@ linuxpréinstallé.com
 thermodynamique.fr
 jacobfilipp.com
 birla.io
+kusoneko.moe
+www.kusoneko.moe
+blog.kusoneko.moe
+git.kusoneko.moe
