@@ -257,3 +257,7 @@ linuxpréinstallé.com
 thermodynamique.fr
 jacobfilipp.com
 birla.io
+tinyweatherforecastgermanygroup.frama.io
+twfgcicdbot.github.io/TinyWeatherForecastGermanyScan
+tinyweatherforecastgermanygroup.gitlab.io/index
+tinyweatherforecastgermanygroup.gitlab.io/twfg-javadoc
