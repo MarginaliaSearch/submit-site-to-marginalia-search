@@ -1,0 +1,5 @@
+# This file is for loading specific crawl sets into a test environment
+# for debugging the crawler.  Its content may change over time.
+
+oddduck.neocities.org
+www.cambridgeclarion.org

@@ -249,6 +249,7 @@ newdegeneration.xyz
 blog.newdegeneration.xyz
 lunareclipse.zone
 exilian.co.uk
+academia.fzrw.info
 middleagesinmoderngames.net
 medievalcaucasus.org
 www.cvennevik.no
@@ -261,3 +262,4 @@ kusoneko.moe
 www.kusoneko.moe
 blog.kusoneko.moe
 git.kusoneko.moe
+redlibrary.info
