@@ -15,7 +15,7 @@ tuxilio.codeberg.page
 secu.pages.dev
 robkohr.com
 10maurycy10.github.io
-www,ninjazumbi.com
+www.ninjazumbi.com
 garrido.io
 invariance.ceu.su
 mrtno.com
