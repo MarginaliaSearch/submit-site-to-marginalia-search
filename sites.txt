@@ -11,6 +11,7 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+ermageeerd.neocities.org
 tuxilio.codeberg.page
 secu.pages.dev
 robkohr.com
