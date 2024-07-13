@@ -11,6 +11,8 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+litew.pages.dev
+crtv.pages.dev
 tuxilio.codeberg.page
 secu.pages.dev
 robkohr.com
