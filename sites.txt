@@ -8,6 +8,9 @@
 # www.example.com
 #   ... is sufficient
 
+# Note:  Feel free to add the domain anywhere in the list, preferrably not at the beginning or the end,
+# as this reduces the likelihood of a conflict in github.  Makes it easier to merge.
+
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
@@ -319,3 +322,15 @@ ajkprojects.com
 cneira.github.io
 unixdigest.com
 axxuy.xyz
+www.slatecave.net
+slatecave.net
+eggware.xyz
+blog.eggware.xyz
+boykisser.nl
+morgan.zoemp.be
+kenhv.com
+ermageeerd.neocities.org
+old.parts
+crtv.pages.dev
+litew.pages.dev
+www.bobek.cz
