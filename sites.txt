@@ -318,3 +318,4 @@ blog.strus.guru
 ajkprojects.com
 cneira.github.io
 unixdigest.com
+axxuy.xyz
