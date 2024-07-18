@@ -14,6 +14,7 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+trude.dev
 tuxilio.codeberg.page
 secu.pages.dev
 robkohr.com
