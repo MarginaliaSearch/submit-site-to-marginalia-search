@@ -335,6 +335,7 @@ old.parts
 crtv.pages.dev
 litew.pages.dev
 www.bobek.cz
+tarotmancer.com
 digitaltibetan.github.io/DigitalTibetan
 lancache.net
 uklans.net
