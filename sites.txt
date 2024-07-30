@@ -335,3 +335,6 @@ old.parts
 crtv.pages.dev
 litew.pages.dev
 www.bobek.cz
+lancache.net
+uklans.net
+
