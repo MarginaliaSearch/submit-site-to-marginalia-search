@@ -320,6 +320,7 @@ kirill.korins.ky
 dings.tech
 blog.passwordclass.xyz
 blog.strus.guru
+blog.moubou.com
 ajkprojects.com
 cneira.github.io
 unixdigest.com
