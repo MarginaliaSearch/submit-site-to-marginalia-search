@@ -18,6 +18,12 @@ trude.dev
 tuxilio.codeberg.page
 secu.pages.dev
 robkohr.com
+propagandahat.com
+kaimac.org
+p-a-w.net
+posttext.pl
+immibis.com
+priro.pro
 larsbarnabee.com
 10maurycy10.github.io
 www.ninjazumbi.com
