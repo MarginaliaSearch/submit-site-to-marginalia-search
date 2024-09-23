@@ -25,6 +25,8 @@ p-a-w.net
 posttext.pl
 immibis.com
 priro.pro
+robsplace.dev
+robsplace.thsite.top
 larsbarnabee.com
 10maurycy10.github.io
 www.ninjazumbi.com
@@ -45,6 +47,7 @@ adminlibre.org
 beybladeanime.com
 www.cosmicbagel.com
 itsjake.me
+robinkay.uk
 blog.nawaz.org
 eugentoptic44.codeberg.page
 www.hackerspace.cl
@@ -72,6 +75,7 @@ galaxy.click
 balt.sno.mba
 sno.mba
 teamakes.games
+kolesnikov.se
 elisioneffect.com
 tea.wtf
 wonderland.gay
@@ -94,6 +98,7 @@ lunabee.space
 nthia.dev
 skylarhill.me
 gwenpri.me
+www.viblo.se
 cyberia.club
 capsul.org
 nullhex.com
@@ -107,6 +112,7 @@ nhobb.com
 autisticasfxxk.com
 godsped.com
 blog.neuenet.com
+sglmr.com
 expara.social
 refereeingandreflection.wordpress.com
 www.quaddicted.com
@@ -130,6 +136,7 @@ xnacly.me
 pbement.com
 philosophyforchange.wordpress.com
 mylitjourney.wordpress.com
+dgroshev.com
 blog.waseigo.com
 wilkinson.graphics
 purserclub.com
@@ -139,10 +146,12 @@ srijan.ch
 ottomannews.com
 pub.colonq.computer
 andrejradovic.com
+captainslog.me
 www.amity.city
 blog.reciperadar.com
 www.reciperadar.com
 hazybridge.com
+rowanbird779.nekoweb.org
 bawcast.com
 zadnyspe.ch
 jentak.co
@@ -167,6 +176,7 @@ chrisritchie.org
 phinjensen.com
 newsonaut.com
 hotgarba.ge
+hecko.my.to
 elerosv.pet
 dlants.me
 durakiconsulting.com
@@ -229,6 +239,8 @@ sanitarium.se
 ktibow.github.io
 jade.ellis.link
 luke.hsiao.dev
+www.opentierboy.com
+opentierboy.com
 ben.companjen.name
 thoughtsofmine.ca
 personal.thoughtsofmine.ca
@@ -240,16 +252,19 @@ www.schoene-kinderbuecher.de
 remblanc.nekoweb.org
 dotbun.com
 arcades.agency
+cascading.space
 aajonus.net
 neilensperch.withtank.com
 agnieszka.dev
 runtimeterror.dev
 benstokman.me
+wiggle.monster
 cellio.org
 michaelwelford.com
 lifewaza.com
 cotcli.com
 aikidomontreal.com
+www.nepaliukhan.com
 jonathan-frere.com
 lanzani.nl
 blog.lanzani.nl
@@ -320,6 +335,8 @@ nadeko.net
 mint.lgbt
 sudovanilla.org
 ducks.party
+cat-boop.com
+www.cat-boop.com
 sijh.net
 neco.lol
 edmateo.site
@@ -350,6 +367,7 @@ litew.pages.dev
 www.bobek.cz
 tarotmancer.com
 digitaltibetan.github.io/DigitalTibetan
+theraa.net
 lancache.net
 uklans.net
 weirdwaves.net
@@ -358,3 +376,10 @@ www.write-on.org
 www.eressea.de
 wiki.eressea.de
 www.enno.horse
+helenchong.dev
+leilukin.com
+www.write-on.orgster
+tinyglitch.net
+noahwbaldwin.me
+davejansen.com
+lgrando1.github.io
