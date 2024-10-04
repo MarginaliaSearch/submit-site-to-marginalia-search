@@ -305,6 +305,7 @@ blog.nicolas-guruphat.com
 indigo.re
 vaclavzoubek.eu
 maxwellforbes.com
+max.gripe
 tinyweatherforecastgermanygroup.frama.io
 tinyweatherforecastgermanygroup.gitlab.io
 thedabbler.patatas.ca
