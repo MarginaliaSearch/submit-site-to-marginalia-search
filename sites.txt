@@ -96,6 +96,10 @@ spitlo.com
 blog.plain.technolog
 lunabee.space
 nthia.dev
+blog.nthia.dev
+git.nthia.dev
+tools.nthia.dev
+music.nthia.dev
 skylarhill.me
 gwenpri.me
 www.viblo.se
