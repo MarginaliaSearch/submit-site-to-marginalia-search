@@ -387,3 +387,4 @@ tinyglitch.net
 noahwbaldwin.me
 davejansen.com
 lgrando1.github.io
+locrian.zone
