@@ -393,3 +393,5 @@ davejansen.com
 lgrando1.github.io
 locrian.zone
 maxbo.me
+triptechwiki.github.io
+triptechwiki.neocities.org
