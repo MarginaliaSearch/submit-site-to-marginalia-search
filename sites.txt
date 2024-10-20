@@ -395,3 +395,4 @@ locrian.zone
 maxbo.me
 triptechwiki.github.io
 triptechwiki.neocities.org
+www.whysf.xyz
