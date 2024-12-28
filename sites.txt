@@ -15,6 +15,7 @@
 
 # Sites To Add:
 notfromhere.fyi
+www.johnwalker.nl
 trude.dev
 tuxilio.codeberg.page
 secu.pages.dev
