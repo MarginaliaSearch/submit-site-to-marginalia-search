@@ -110,6 +110,7 @@ blog.nthia.dev
 git.nthia.dev
 tools.nthia.dev
 music.nthia.dev
+wolfgirl.dev
 skylarhill.me
 gwenpri.me
 www.viblo.se
