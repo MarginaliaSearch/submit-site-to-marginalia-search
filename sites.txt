@@ -115,6 +115,7 @@ git.nthia.dev
 tools.nthia.dev
 music.nthia.dev
 wolfgirl.dev
+phoki.neocities.org
 skylarhill.me
 gwenpri.me
 www.viblo.se
