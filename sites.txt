@@ -429,3 +429,6 @@ haborym.bearblog.dev
 shanefera.com
 alanmckay.blog
 www.bryan-kaperick.me
+terminal.pink
+blog.terminal.pink
+dovel.email
