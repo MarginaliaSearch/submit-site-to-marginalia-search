@@ -190,6 +190,15 @@ hidersout.com
 shapesinrealti.me
 www.bumps.cafe
 oddduck.neocities.org
+basspistol.com
+v.basspistol.org
+git.basspistol.org
+do.basspistol.org
+setto.basspistol.com
+paxnion.basspistol.com
+radio.basspistol.com
+txt.basspistol.org
+sakrecoer.com
 blackilykat.dev
 recursewithless.net
 mattstein.com
@@ -414,6 +423,7 @@ noahwbaldwin.me
 davejansen.com
 lgrando1.github.io
 locrian.zone
+kabirk.com
 maxbo.me
 triptechwiki.github.io
 triptechwiki.neocities.org
@@ -433,3 +443,5 @@ terminal.pink
 blog.terminal.pink
 dovel.email
 sillon-fictionnel.club
+pvv.ntnu.no
+wiki.pvv.ntnu.no
