@@ -61,7 +61,9 @@ eugentoptic44.codeberg.page
 www.hackerspace.cl
 www.aylett.co.uk
 wronex.com
+phantastic.me
 italianpoetry.it
+omustardo.com
 chaotic.ninja
 bartekmuracki.com
 reggaenet.org
@@ -168,6 +170,7 @@ srijan.ch
 ottomannews.com
 pub.colonq.computer
 andrejradovic.com
+kyudosudoku.timwi.de
 captainslog.me
 www.amity.city
 blog.reciperadar.com
@@ -190,6 +193,15 @@ hidersout.com
 shapesinrealti.me
 www.bumps.cafe
 oddduck.neocities.org
+basspistol.com
+v.basspistol.org
+git.basspistol.org
+do.basspistol.org
+setto.basspistol.com
+paxnion.basspistol.com
+radio.basspistol.com
+txt.basspistol.org
+sakrecoer.com
 blackilykat.dev
 recursewithless.net
 mattstein.com
@@ -253,6 +265,7 @@ frockflicks.com
 moth.monster
 asozial.org
 beefox.xyz
+informatik-hhx.pages.dev
 b-ring.nl
 rooiratel.red
 sacred.neocities.org
@@ -365,6 +378,7 @@ mint.lgbt
 sudovanilla.org
 ducks.party
 cat-boop.com
+arunkd13.github.io
 www.cat-boop.com
 sijh.net
 neco.lol
@@ -414,6 +428,7 @@ noahwbaldwin.me
 davejansen.com
 lgrando1.github.io
 locrian.zone
+kabirk.com
 maxbo.me
 triptechwiki.github.io
 triptechwiki.neocities.org
@@ -433,3 +448,6 @@ terminal.pink
 blog.terminal.pink
 dovel.email
 brandonpittman.com
+sillon-fictionnel.club
+pvv.ntnu.no
+wiki.pvv.ntnu.no
