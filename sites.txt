@@ -432,3 +432,5 @@ www.bryan-kaperick.me
 terminal.pink
 blog.terminal.pink
 dovel.email
+pvv.ntnu.no
+wiki.pvv.ntnu.no
