@@ -14,6 +14,7 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+ultracrepidarian.phfactor.net
 notfromhere.fyi
 www.johnwalker.nl
 llmlabs.net
