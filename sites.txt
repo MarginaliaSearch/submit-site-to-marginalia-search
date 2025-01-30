@@ -14,6 +14,7 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+sofoundit.com
 ultracrepidarian.phfactor.net
 notfromhere.fyi
 www.johnwalker.nl
