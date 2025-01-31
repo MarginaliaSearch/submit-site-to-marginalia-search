@@ -118,6 +118,7 @@ blog.plain.technolog
 lunabee.space
 nthia.dev
 thenitropower.neocities.org
+gonna.surf
 kaiortlieb.com
 blog.nthia.dev
 git.nthia.dev
