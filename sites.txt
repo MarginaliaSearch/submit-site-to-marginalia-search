@@ -471,6 +471,7 @@ pvv.ntnu.no
 wiki.pvv.ntnu.no
 akshitgaur2005.github.io
 http://bluepixelcomputing.com:8141/
+oxyn.org
 
 # Please add new sites to a random line in the list, 
 # not all at the end, doing this helps avoid tedious
