@@ -453,6 +453,7 @@ www.whysf.xyz
 bobbyhiltz.com
 blog.mbirth.uk
 dylanjuran.me
+r0b.bearblog.dev
 tombrandis.uk
 blog.shr4pnel.com
 andrewpakhomov.com
@@ -477,3 +478,4 @@ brainlane.bearblog.dev
 # Please add new sites to a random line in the list, 
 # not all at the end, doing this helps avoid tedious
 # merge conflicts
+
