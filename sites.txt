@@ -84,6 +84,7 @@ blog.movimento-centrale.it
 www.stegriff.co.uk
 carlseleborg.com
 sugradh.com
+danielking.dev
 simpatico.io
 marcusb.org
 www.madhadron.com
