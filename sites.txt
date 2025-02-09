@@ -218,6 +218,8 @@ txt.basspistol.org
 sakrecoer.com
 blackilykat.dev
 recursewithless.net
+comma.directory
+mccd.space
 mattstein.com
 offthehook.cc
 www.gross.sh
