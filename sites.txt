@@ -21,6 +21,7 @@ www.johnwalker.nl
 llmlabs.net
 h.cjh0613.com
 trude.dev
+manualdousuario.net
 tuxilio.codeberg.page
 secu.pages.dev
 robkohr.com
@@ -380,6 +381,7 @@ realites-paralleles.com
 bellacoolaharbour.ca
 www.bellacoolafoodshed.org
 dziban.net
+janela.digital
 shiftingedges.com
 tchan.lol
 1500chan.org
@@ -423,6 +425,7 @@ blog.strus.guru
 blog.moubou.com
 ajkprojects.com
 cneira.github.io
+janelaarquitetos.com.br
 unixdigest.com
 axxuy.xyz
 www.slatecave.net
