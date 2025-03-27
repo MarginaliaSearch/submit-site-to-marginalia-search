@@ -224,6 +224,9 @@ basspistol.com
 v.basspistol.org
 git.basspistol.org
 do.basspistol.org
+pathoplexus.org
+loculus.org
+nextstrain.org
 setto.basspistol.com
 paxnion.basspistol.com
 radio.basspistol.com
