@@ -112,6 +112,7 @@ www.madhadron.com
 ports.serenityos.net
 mkr.pw
 costacoders.es
+epilogue.team
 neter.fi
 rukii.net
 covacha.net.ar
@@ -172,6 +173,7 @@ nhobb.com
 autisticasfxxk.com
 godsped.com
 blog.neuenet.com
+eplg.services
 sglmr.com
 expara.social
 refereeingandreflection.wordpress.com
@@ -222,6 +224,7 @@ zadnyspe.ch
 jentak.co
 mrevil.asvachin.com
 verzettelung.com
+pandadev.net
 alexsci.com
 robalexdev.com
 www.getlocalcert.net
@@ -292,6 +295,7 @@ www.makeworld.space
 lovelydumpling.nekoweb.org
 mopacic.net
 mcpar.land
+ziit.app
 graphicalmethods.com
 redterminal.org
 www.listenfaster.com
