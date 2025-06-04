@@ -15,6 +15,7 @@
 
 # Sites To Add:
 farthergate.com
+roguesecurity.dev
 mitatefe.bearblog.dev
 sofoundit.com
 ultracrepidarian.phfactor.net
