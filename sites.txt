@@ -329,6 +329,7 @@ b-ring.nl
 rooiratel.red
 sacred.neocities.org
 linkpantry.com
+bruchbuehne.github.io
 svilendobrev.com
 yso.blue
 volpeon.ink
@@ -497,6 +498,7 @@ uklans.net
 weirdwaves.net
 www.aketawi.space/home
 www.write-on.org
+bruchbuehne.de
 www.eressea.de
 basi.nya.pub
 wiki.eressea.de
@@ -520,12 +522,14 @@ bobbyhiltz.com
 blog.mbirth.uk
 dylanjuran.me
 ianreppel.org
+sternenwanderer.github.io
 r0b.bearblog.dev
 tombrandis.uk
 blog.shr4pnel.com
 andrewpakhomov.com
 benchristel.com
 tonotes.com
+nicolai.ink
 haborym.bearblog.dev
 shanefera.com
 alanmckay.blog
