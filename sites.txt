@@ -14,6 +14,7 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+stellarweb.space
 stevenoxley.com
 farthergate.com
 roguesecurity.dev
