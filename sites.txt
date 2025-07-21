@@ -566,6 +566,7 @@ http://bluepixelcomputing.com:8141/
 oxyn.org
 brainlane.bearblog.dev
 sanderium.codeberg.page
+rustredriver.com
 # Please add new sites to a random line in the list,
 # not all at the end, doing this helps avoid tedious
 # merge conflicts
