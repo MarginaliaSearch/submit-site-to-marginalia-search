@@ -502,6 +502,7 @@ crtv.pages.dev
 mayas-archive.com
 superdarke.neocities.org
 litew.pages.dev
+madeinheaven.space
 www.bobek.cz
 tarotmancer.com
 digitaltibetan.github.io/DigitalTibetan
