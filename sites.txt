@@ -109,6 +109,7 @@ reggaenet.org
 libera.solucioneslibres.com
 ethanleitch.dev
 heonian.org
+omnicarousel.dev
 serradas.org
 zewaren.net
 agney.dev
