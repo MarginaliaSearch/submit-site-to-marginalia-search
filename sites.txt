@@ -505,6 +505,7 @@ blog.moubou.com
 ajkprojects.com
 cneira.github.io
 janelaarquitetos.com.br
+ajderniz.xyz
 unixdigest.com
 axxuy.xyz
 www.slatecave.net
@@ -539,6 +540,7 @@ www.koppelting.org
 www.aketawi.space/home
 www.write-on.org
 bruchbuehne.de
+www.ajderniz.xyz
 www.eressea.de
 basi.nya.pub
 wiki.eressea.de
