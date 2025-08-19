@@ -82,6 +82,7 @@ fragglejazz.nl
 blog.philz.dev
 philz.dev
 paper-review.net
+formerlytomato.codeberg.page
 www.getitfree.nl
 blog.ari.lt
 discountdiskz.com
@@ -95,6 +96,7 @@ quirky-quests.com
 bornebeweegt.nl
 adminlibre.org
 beybladeanime.com
+beyond40.codeberg.page
 www.cosmicbagel.com
 itsjake.me
 robinkay.uk
