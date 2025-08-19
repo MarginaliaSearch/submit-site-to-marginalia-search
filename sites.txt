@@ -375,6 +375,8 @@ neilensperch.withtank.com
 agnieszka.dev
 runtimeterror.dev
 benstokman.me
+vavakado.xyz
+git.vavakado.xyz
 wiggle.monster
 arjunsatarkar.net
 cellio.org
