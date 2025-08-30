@@ -130,6 +130,7 @@ ethanleitch.dev
 heonian.org
 omnicarousel.dev
 serradas.org
+blog.vorona.ca
 alexzeecomedy.com
 zewaren.net
 agney.dev
