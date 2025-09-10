@@ -172,6 +172,8 @@ stratasource.org
 momentum-mod.org
 blog.momentum-mod.org
 dawnfelstar.com
+cobb.land
+jacobdensford.com
 alpha.shark.tobot.dev
 dev.shark.tobot.dev
 shark.tobot.dev
