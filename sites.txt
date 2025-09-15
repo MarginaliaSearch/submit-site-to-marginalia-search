@@ -485,6 +485,7 @@ ptchan.org
 usagi.reisen
 dospuntostr.es
 thefrogpond.org
+bandlinker.com
 soygem.party
 saracean.com
 szymonnastaly.com
@@ -596,6 +597,7 @@ sternenwanderer.github.io
 r0b.bearblog.dev
 tombrandis.uk
 blog.shr4pnel.com
+willgrant.org
 andrewpakhomov.com
 benchristel.com
 tonotes.com
