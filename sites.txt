@@ -14,6 +14,11 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+crepa.pages.dev
+golemdeimontipicentini.netlify.app
+nayvori.netlify.app
+golemrottsearch.netlify.app
+fairplay.video
 vxcc.dev
 tudosobreanimais.com.br
 lucasgaldino.com
