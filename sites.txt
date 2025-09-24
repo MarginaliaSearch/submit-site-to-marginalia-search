@@ -79,6 +79,7 @@ robsplace.thsite.top
 cogilabs.eu
 samfeldstein.xyz
 notebook.samfeldstein.xyz
+mado.sh
 isought.info
 beyond-mundanity.com
 larsbarnabee.com
