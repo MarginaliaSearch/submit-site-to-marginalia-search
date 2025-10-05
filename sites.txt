@@ -80,6 +80,9 @@ blog.lovsund.eu
 robsplace.dev
 robsplace.thsite.top
 cogilabs.eu
+frvser.com
+jodie.website
+sowe.li
 samfeldstein.xyz
 notebook.samfeldstein.xyz
 mado.sh
