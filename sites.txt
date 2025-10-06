@@ -321,6 +321,7 @@ git.basspistol.org
 do.basspistol.org
 pathoplexus.org
 loculus.org
+auxv.org
 nextstrain.org
 setto.basspistol.com
 paxnion.basspistol.com
