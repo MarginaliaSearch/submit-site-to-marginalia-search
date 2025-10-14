@@ -22,6 +22,7 @@ fairplay.video
 vxcc.dev
 tudosobreanimais.com.br
 lucasgaldino.com
+scoped-tech.github.io
 ancap.su
 taamoq.ir
 sklaffkom.se
