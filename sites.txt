@@ -188,6 +188,7 @@ pupraider.net
 kevink.dev
 lmke.dev
 simpatico.io
+www.slongo.biz
 marcusb.org
 www.madhadron.com
 ports.serenityos.net
