@@ -737,6 +737,7 @@ brainlane.bearblog.dev
 sanderium.codeberg.page
 rustredriver.com
 skcld.neocities.org
+destop.top
 # Please add new sites to a random line in the list,
 # not all at the end, doing this helps avoid tedious
 # merge conflicts
