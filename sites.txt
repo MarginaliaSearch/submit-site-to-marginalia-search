@@ -33,6 +33,7 @@ melin.org
 bjoremanmelin.se
 isight.se
 sykose.xyz
+peppercarrot.com
 stellarweb.space
 stevenoxley.com
 farthergate.com
@@ -152,11 +153,13 @@ eugentoptic44.codeberg.page
 www.hackerspace.cl
 www.aylett.co.uk
 wronex.com
+strangereons.com
 kanoe.yuuko.eu
 wiki.postmarketos.org
 postmarketos.org
 pocketbook.ch
 kobobooks.com
+leifandthorn.com
 inkbook.eu
 blogfa.farooqkz.com
 recorant.com
@@ -207,6 +210,7 @@ epilogue.team
 neter.fi
 rukii.net
 covacha.net.ar
+explainxkcd.com
 galaxy.click
 justapa.thologi.st
 balt.sno.mba
@@ -272,6 +276,7 @@ monocle-search.com
 godsped.com
 blog.neuenet.com
 eplg.services
+emmytherobot.wiki
 sglmr.com
 expara.social
 refereeingandreflection.wordpress.com
@@ -323,6 +328,7 @@ zadnyspe.ch
 jentak.co
 mrevil.asvachin.com
 verzettelung.com
+pandorastale.wiki
 pandadev.net
 alexsci.com
 www.the-retrospective.com
@@ -538,6 +544,7 @@ shiftingedges.com
 tchan.lol
 1500chan.org
 chingchan.org
+rainverse.wiki
 monero.land
 lolifox.moe
 vastalauta.org
