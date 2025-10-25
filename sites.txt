@@ -111,6 +111,7 @@ bb89.nl
 fragglejazz.nl
 blog.philz.dev
 philz.dev
+ivankovic.me
 paper-review.net
 formerlytomato.codeberg.page
 www.getitfree.nl
