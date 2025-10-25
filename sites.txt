@@ -647,6 +647,7 @@ r0b.bearblog.dev
 tombrandis.uk
 blog.shr4pnel.com
 willgrant.org
+froi.dev
 andrewpakhomov.com
 benchristel.com
 tonotes.com
