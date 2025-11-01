@@ -770,13 +770,13 @@ sales.aviparshan.com
 akshitgaur2005.github.io
 http://bluepixelcomputing.com:8141/
 oxyn.org
+maxisodenoth.neocities.org
 brainlane.bearblog.dev
 sanderium.codeberg.page
 rustredriver.com
 skcld.neocities.org
 destop.top
 jurisfac.org 
-maxisodenoth.neocities.org
 # Please add new sites to a random line in the list,
 # not all at the end, doing this helps avoid tedious
 # merge conflicts
