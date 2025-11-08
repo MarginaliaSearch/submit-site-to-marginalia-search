@@ -599,6 +599,7 @@ ggtyler.dev
 zzls.xyz
 nadeko.net
 rorylawless.com
+riz0me.bearblog.dev
 michaelkupietz.com
 mint.lgbt
 sudovanilla.org
@@ -778,7 +779,7 @@ sanderium.codeberg.page
 rustredriver.com
 skcld.neocities.org
 destop.top
-jurisfac.org 
+jurisfac.org
 # Please add new sites to a random line in the list,
 # not all at the end, doing this helps avoid tedious
 # merge conflicts
