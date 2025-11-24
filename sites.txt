@@ -31,6 +31,7 @@ sklaffkom.se
 freecyb.org
 jmilo.ir
 melin.org
+conallia.cc
 bjoremanmelin.se
 isight.se
 sykose.xyz
@@ -63,6 +64,12 @@ devintheshell.com
 secu.pages.dev
 joeyshi.xyz
 robkohr.com
+portal.goeshard.org
+board.goeshard.org
+tylenol.goeshard.org
+goeshard.neocities.org
+bnw.pages.dev
+forum.bladerunners.net
 propagandahat.com
 kaimac.org
 matth-ijs.nl
@@ -188,7 +195,12 @@ kanoe.yuuko.eu
 wiki.postmarketos.org
 postmarketos.org
 pocketbook.ch
+godsmercybookshop.com
 kobobooks.com
+hereinuganda.com
+finalheights.com
+sweetcakesug.com
+eduxpdf.com
 leifandthorn.com
 inkbook.eu
 blogfa.farooqkz.com
@@ -371,6 +383,7 @@ benlacroix.com
 hidersout.com
 shapesinrealti.me
 www.bumps.cafe
+matthieugd.com
 oddduck.neocities.org
 basspistol.com
 v.basspistol.org
@@ -454,6 +467,7 @@ ckhollidayplans.com
 fermi.chat
 blog.fermi.chat
 frockflicks.com
+scottdriggers.com
 moth.monster
 asozial.org
 nleanba.ch
@@ -533,6 +547,7 @@ relint.de
 popnyc.org
 www.skrlet13.xyz
 www.terracrypt.net
+www.cgl.sh
 lunareclipse.zone
 exilian.co.uk
 academia.fzrw.info
@@ -567,6 +582,7 @@ dylanjava.com
 zaclloyd.net
 realites-paralleles.com
 bellacoolaharbour.ca
+chris-besch.com
 www.bellacoolafoodshed.org
 journal.seefar.dev
 dziban.net
@@ -599,6 +615,7 @@ ggtyler.dev
 zzls.xyz
 nadeko.net
 rorylawless.com
+riz0me.bearblog.dev
 michaelkupietz.com
 mint.lgbt
 sudovanilla.org
@@ -778,8 +795,8 @@ sanderium.codeberg.page
 rustredriver.com
 skcld.neocities.org
 destop.top
-jurisfac.org 
 leshumains.org
+jurisfac.org
 # Please add new sites to a random line in the list,
 # not all at the end, doing this helps avoid tedious
 # merge conflicts
