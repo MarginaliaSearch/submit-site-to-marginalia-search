@@ -25,9 +25,12 @@ tudosobreanimais.com.br
 lucasgaldino.com
 scoped-tech.github.io
 ancap.su
+luanti.org
+forum.luanti.org
 taamoq.ir
 chrisdempewolf.com
 sklaffkom.se
+forums.debian.org
 freecyb.org
 jmilo.ir
 melin.org
