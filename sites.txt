@@ -586,6 +586,7 @@ tinyweatherforecastgermanygroup.frama.io
 tinyweatherforecastgermanygroup.gitlab.io
 thedabbler.patatas.ca
 dylanjava.com
+cernockyd.com
 zaclloyd.net
 realites-paralleles.com
 bellacoolaharbour.ca
