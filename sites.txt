@@ -136,6 +136,8 @@ blog.philz.dev
 philz.dev
 ivankovic.me
 paper-review.net
+queer.irish
+ferment.site
 formerlytomato.codeberg.page
 www.getitfree.nl
 blog.ari.lt
