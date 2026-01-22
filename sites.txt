@@ -188,6 +188,7 @@ bornebeweegt.nl
 adminlibre.org
 rubymaelstrom.com
 beybladeanime.com
+oldrpcg.retrospection.xn--q9jyb4c
 beyond40.codeberg.page
 www.cosmicbagel.com
 itsjake.me
@@ -624,6 +625,7 @@ thefrogpond.org
 bandlinker.com
 soygem.party
 saracean.com
+community.retrospection.xn--q9jyb4c
 szymonnastaly.com
 mirohlichan.net
 alterchan.net
