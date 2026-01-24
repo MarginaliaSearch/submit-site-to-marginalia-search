@@ -14,6 +14,8 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+muhammadindar.my.id
+gardasys.biz.id
 horizononlinetherapy.com
 crepa.pages.dev
 ilikeaccounting.com
