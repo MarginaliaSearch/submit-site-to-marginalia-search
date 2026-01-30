@@ -414,6 +414,8 @@ pathoplexus.org
 loculus.org
 auxv.org
 nextstrain.org
+randomdailyurls.com
+wtfhappened2012.com
 setto.basspistol.com
 paxnion.basspistol.com
 radio.basspistol.com
