@@ -24,8 +24,8 @@ Don't be alarmed if this takes a while, as it doesn't really matter when they're
 
 ## Option C:
 
-If you do not want to mess around with GitHub, you can also send me an email with the URL of your website. Email the website to `contact@marginalia-search.com` and I'll add it to this list.
-
+If you do not want to mess around with GitHub, you can also send me an email with the URL of your website. Email the website to `contact@marginalia-search.com` and I'll add it to this list.  You won't get a response to the email, and it will take a while 
+before it's added, but be patient and trust the system.
 
 # Why do I have to submit my website manually?
 
