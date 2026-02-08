@@ -71,6 +71,15 @@ h.cjh0613.com
 bugs.freebsd.org
 trude.dev
 cashscript.org
+islamweb.net
+islamqa.info
+le-coran.com
+quran.ksu.edu.sa
+www.bazargan.com
+adyan-iran.com
+maktabquran.com
+www.gotquestions.org
+cmje.org
 asterinas.github.io
 0x1eef.github.io
 nousresearch.com
@@ -81,7 +90,7 @@ heyitsalex.net
 rakifsul.github.io
 manualdousuario.net
 tuxilio.codeberg.page
-devintheshell.com
+dewvintheshell.com
 secu.pages.dev
 joeyshi.xyz
 robkohr.com
@@ -126,7 +135,7 @@ templately.com
 easy.jobs
 technetcloud.host
 matthijszwinderman.nl
-1001ideas.org
+10l01ideas.org
 getpenny.app
 www.winstoncooke.com
 p-a-w.net
