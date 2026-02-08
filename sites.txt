@@ -44,6 +44,9 @@ bjoremanmelin.se
 isight.se
 sykose.xyz
 peppercarrot.com
+kde.org
+spec.matrix.org
+strukturart.com
 stellarweb.space
 stevenoxley.com
 farthergate.com
@@ -65,7 +68,21 @@ hasankayra04.com
 status.hasankayra04.com
 llmlabs.net
 h.cjh0613.com
+bugs.freebsd.org
 trude.dev
+cashscript.org
+islamweb.net
+islamqa.info
+le-coran.com
+quran.ksu.edu.sa
+www.bazargan.com
+adyan-iran.com
+maktabquran.com
+www.gotquestions.org
+cmje.org
+asterinas.github.io
+0x1eef.github.io
+nousresearch.com
 maximilianbenner.com
 rambutan.neocities.org
 hill.xyz
@@ -73,7 +90,7 @@ heyitsalex.net
 rakifsul.github.io
 manualdousuario.net
 tuxilio.codeberg.page
-devintheshell.com
+dewvintheshell.com
 secu.pages.dev
 joeyshi.xyz
 robkohr.com
@@ -85,8 +102,11 @@ esam.ir
 1984.hosting
 privex.io
 delta.chat
-shatelmobile.ir
-www.karzar.net
+support.delta.chat
+mail-archive.freebsd.org
+lists.freebsd.org
+lists.alpinelinux.org
+shatelmobile.ir www.karzar.net
 thecaferobot.com
 wiki.postmarketos.org
 leomax.fyi
@@ -115,7 +135,7 @@ templately.com
 easy.jobs
 technetcloud.host
 matthijszwinderman.nl
-1001ideas.org
+10l01ideas.org
 getpenny.app
 www.winstoncooke.com
 p-a-w.net
@@ -267,7 +287,13 @@ jadi.net
 dorehami.dev
 virgool.io
 persianbitcoincash.com
+bitcoincashresearch.org
+rubenwardy.com
+opal.cash
 pcworms.ir
+minisatoshi.cash
+bits.debian.org
+micronews.debian.org
 ubuntu-ir.org
 wiki.ubuntu-ir.org
 fsiran.org
@@ -461,6 +487,10 @@ wtfhappened2012.com
 setto.basspistol.com
 paxnion.basspistol.com
 radio.basspistol.com
+radiofarda.com
+www.hra-news.org
+bitcoin-vps.com
+mehrnews.com
 txt.basspistol.org
 sakrecoer.com
 blackilykat.dev
@@ -960,7 +990,6 @@ electroncash.org
 paytaca.com
 awesomebitcoin.cash
 morushroom.nekoweb.org
-persianbitcoincash.com
 blogfa.farooqkz.com
 helpme.cash
 blaccat.space
