@@ -102,6 +102,7 @@ esam.ir
 1984.hosting
 privex.io
 delta.chat
+bsd.cafe
 support.delta.chat
 mail-archive.freebsd.org
 lists.freebsd.org
