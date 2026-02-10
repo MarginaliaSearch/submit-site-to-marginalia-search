@@ -36,6 +36,8 @@ chrisdempewolf.com
 sklaffkom.se
 socioflow.net
 forums.debian.org
+sbc.compare
+bret.dk
 freecyb.org
 jmilo.ir
 melin.org
