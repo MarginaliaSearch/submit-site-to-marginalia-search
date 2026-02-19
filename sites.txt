@@ -25,6 +25,7 @@ nayvori.netlify.app
 golemrottsearch.netlify.app
 fairplay.video
 vxcc.dev
+devitti.bz
 brosnung.blogspot.com
 tudosobreanimais.com.br
 lucasgaldino.com
