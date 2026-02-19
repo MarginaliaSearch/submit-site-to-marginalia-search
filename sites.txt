@@ -52,6 +52,9 @@ kde.org
 spec.matrix.org
 strukturart.com
 stellarweb.space
+www.xteink.com
+goodereader.com
+mymeebook.com
 stevenoxley.com
 farthergate.com
 kayzoka.net
