@@ -43,6 +43,8 @@ paper.wf
 blog.bananahackers.net
 wiki.bananahackers.net
 forums.debian.org
+zist.digital
+rootaccess.zist.digital
 sbc.compare
 bret.dk
 freecyb.org
