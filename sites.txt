@@ -39,6 +39,9 @@ taamoq.ir
 chrisdempewolf.com
 sklaffkom.se
 socioflow.net
+paper.wf
+blog.bananahackers.net
+wiki.bananahackers.net
 forums.debian.org
 sbc.compare
 bret.dk
