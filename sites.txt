@@ -882,6 +882,8 @@ jugendschutzschutzprogramm.de
 beta.pithus.org
 fireborn.mataroa.blog
 fpresearch.httpjames.space
+slabserver.org
+wiki.slabserver.org
 shiro.ws
 www.timandraka.com
 ipv6buddy.com
