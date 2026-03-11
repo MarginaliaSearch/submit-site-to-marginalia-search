@@ -154,6 +154,7 @@ lists.freebsd.org
 lists.alpinelinux.org
 shatelmobile.ir www.karzar.net
 thecaferobot.com
+newtbytes.cc
 wiki.postmarketos.org
 leomax.fyi
 sisoog.com
