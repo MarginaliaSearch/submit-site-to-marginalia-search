@@ -656,6 +656,7 @@ kendell.dev
 jade.ellis.link
 jcd.pub
 luke.hsiao.dev
+diskette.ch
 alumni.cottonwoodhigh.school
 www.opentierboy.com
 opentierboy.com
