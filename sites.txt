@@ -154,6 +154,7 @@ lists.freebsd.org
 lists.alpinelinux.org
 shatelmobile.ir www.karzar.net
 thecaferobot.com
+newtbytes.cc
 wiki.postmarketos.org
 leomax.fyi
 sisoog.com
@@ -205,6 +206,18 @@ robsplace.thsite.top
 ninimotom.com
 cogilabs.eu
 frvser.com
+www.himstedt-dolls.com
+www.himstedt-puppen.de
+lespoupeesdesophie.com
+www.himstedtheaven.com
+www.angelikavoss.de
+www.friendcompany.com
+annettehimstedtdolls.weebly.com
+barbie-forum.de
+barbieinduesseldorf.jimdofree.com
+www.dieschatzkisteimnetz.de
+www.puppen-paradies.info
+www.puppen-paradies.com
 jodie.website
 sowe.li
 samfeldstein.xyz
@@ -235,6 +248,7 @@ paper-review.net
 queer.irish
 ferment.site
 formerlytomato.codeberg.page
+https://toninotes.cc/
 www.getitfree.nl
 blog.ari.lt
 discountdiskz.com
@@ -263,6 +277,7 @@ sijeni.neocities.org
 manikomtmn.neocities.org
 waso-talu.neocities.org
 waso-mu.neocities.org
+astandke.com
 enky.neocities.org
 alignedtrack432.neocities.org
 nasin.nimi.li
@@ -304,6 +319,7 @@ wronex.com
 strangereons.com
 kanoe.yuuko.eu
 wiki.postmarketos.org
+anita.garden
 postmarketos.org
 pocketbook.ch
 godsmercybookshop.com
@@ -389,6 +405,10 @@ galaxy.click
 justapa.thologi.st
 balt.sno.mba
 sno.mba
+lilahexe.top
+text.lilahexe.top
+flinta.horny.jetzt
+fh-aaachen.de
 teamakes.games
 kolesnikov.se
 elisioneffect.com
@@ -529,6 +549,7 @@ do.basspistol.org
 pathoplexus.org
 loculus.org
 auxv.org
+makarevitch.com
 nextstrain.org
 randomdailyurls.com
 wtfhappened2012.com
@@ -636,6 +657,7 @@ kendell.dev
 jade.ellis.link
 jcd.pub
 luke.hsiao.dev
+diskette.ch
 alumni.cottonwoodhigh.school
 www.opentierboy.com
 opentierboy.com
@@ -722,6 +744,7 @@ indigo.re
 vaclavzoubek.eu
 maxwellforbes.com
 max.gripe
+pysoft.co.za
 tinyweatherforecastgermanygroup.frama.io
 tinyweatherforecastgermanygroup.gitlab.io
 thedabbler.patatas.ca
@@ -848,6 +871,7 @@ www.helenefischer-fanpage.de
 cheminots.be
 discord.sabach.jp
 kenhv.com
+driftya.com
 ermageeerd.neocities.org
 old.parts
 crtv.pages.dev
@@ -881,7 +905,10 @@ jugendschutzschutzprogramm.de
 beta.pithus.org
 fireborn.mataroa.blog
 fpresearch.httpjames.space
+slabserver.org
+wiki.slabserver.org
 shiro.ws
+techfindings.net
 www.timandraka.com
 ipv6buddy.com
 www.skeletonclaw.com
@@ -1055,7 +1082,10 @@ akshitgaur2005.github.io
 http://bluepixelcomputing.com:8141/
 oxyn.org
 maxisodenoth.neocities.org
+nextfive.xyz
+nextfive.in
 brainlane.bearblog.dev
+voxaiengine.com
 sanderium.codeberg.page
 joy.ente.io
 abadugu.com
