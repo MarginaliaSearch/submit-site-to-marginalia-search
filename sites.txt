@@ -894,6 +894,8 @@ alfis.name
 zealusercontributions.vercel.app
 ohshint.gitbook.io
 financialstatement.zip
+git.baric.us
+lp.baric.us
 wiki.dn42.us
 api.webprobe.org
 crxn.de
