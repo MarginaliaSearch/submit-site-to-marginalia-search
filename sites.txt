@@ -747,7 +747,7 @@ blog.nicolas-guruphat.com
 indigo.re
 vaclavzoubek.eu
 maxwellforbes.com
-max.gripe
+mg0x7be.github.io
 pysoft.co.za
 tinyweatherforecastgermanygroup.frama.io
 tinyweatherforecastgermanygroup.gitlab.io
