@@ -1067,6 +1067,7 @@ blog.terminal.pink
 dovel.email
 knazarov.com
 jaytaylor.com
+grueter.dev
 brandonpittman.com
 electroncash.org
 paytaca.com
