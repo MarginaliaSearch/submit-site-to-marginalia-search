@@ -29,12 +29,16 @@ devitti.bz
 brosnung.blogspot.com
 tudosobreanimais.com.br
 lucasgaldino.com
+joypad.ai
+gp2040-ce.info
 scoped-tech.github.io
 ancap.su
 luanti.org
 servedwithrice.com
 forum.luanti.org
 twomorecents.org
+docs.espressif.com
+espressif.com
 taamoq.ir
 chrisdempewolf.com
 sklaffkom.se
