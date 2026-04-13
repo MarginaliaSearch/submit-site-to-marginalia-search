@@ -48,6 +48,8 @@ rootaccess.zist.digital
 sbc.compare
 bret.dk
 freecyb.org
+picolisp.com
+zist.digital
 jmilo.ir
 melin.org
 gpbib.cs.ucl.ac.uk
