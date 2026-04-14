@@ -41,6 +41,10 @@ chrisdempewolf.com
 sklaffkom.se
 socioflow.net
 paper.wf
+kottke.org
+basalam.com
+esam.ir
+qmk.fm
 blog.bananahackers.net
 wiki.bananahackers.net
 forums.debian.org
