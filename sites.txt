@@ -234,6 +234,9 @@ www.dieschatzkisteimnetz.de
 www.puppen-paradies.info
 www.puppen-paradies.com
 jodie.website
+alv.cx
+notes.alv.cx
+git.alv.cx
 sowe.li
 samfeldstein.xyz
 notebook.samfeldstein.xyz
