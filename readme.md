@@ -2,6 +2,8 @@
 
 There are a few options for submitting websites for crawling by Marginalia Search.
 
+If you just want the website to appear in 'random exploration', read the note at the bottom of the page.
+
 ## Option A:
 
 If the website is already known, you can do it directly from the search engine website.
@@ -32,3 +34,11 @@ before it's added, but be patient and trust the system.
 This is to prevent abuse.  Adding obstacles makes this much harder.  Otherwise it would be possible to use the search engine's crawler essentially as a weapon to disrupt a website.  
 
 The 2020s Internet is sadly very adversarial this way.
+
+
+# Subitting to Random Exploration
+
+Getting crawled by Marginalia Search does not include a domain in the Exploration mode.  It isn't even necessary.  
+Assuming the serach engine has grabbed a screenshot of the website, you can just click the 'suggest' buttom below and it'll be queued for review.
+
+<img width="603" height="606" alt="image" src="https://github.com/user-attachments/assets/d3dd2cff-a1ba-4ca1-a6c3-f92f65c2ed16" />
