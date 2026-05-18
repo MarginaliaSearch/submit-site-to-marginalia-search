@@ -14,6 +14,7 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+splectrum.world
 7thmagpie.xyz
 giraffai.com
 lyk.so
