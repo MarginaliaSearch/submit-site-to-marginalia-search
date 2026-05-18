@@ -15,6 +15,7 @@
 
 # Sites To Add:
 splectrum.world
+7thmagpie.xyz
 giraffai.com
 lyk.so
 techdic.ir
