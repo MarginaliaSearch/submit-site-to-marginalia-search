@@ -566,6 +566,8 @@ alpha.shark.tobot.dev
 dev.shark.tobot.dev
 shark.tobot.dev
 tobot.dev
+www.ausiastsel.com
+www.zenodot.app
 paperclipmaximizer.net
 www.2uo.de
 spitlo.com
