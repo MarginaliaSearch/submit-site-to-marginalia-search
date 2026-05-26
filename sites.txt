@@ -1038,6 +1038,9 @@ probe-web.ooni.org
 dn42.pp.ua
 cake.avris.it
 aprilkink.home.blog
+ordinarylabs.io
+ordinary.blog
+sean.ordinary.host
 mediathekviewweb.de
 dpidetector.org
 dev.nasserjunior.com
