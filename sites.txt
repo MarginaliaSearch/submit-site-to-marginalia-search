@@ -30,6 +30,7 @@ nayvori.netlify.app
 golemrottsearch.netlify.app
 fairplay.video
 vxcc.dev
+wasi.ovh
 devitti.bz
 brosnung.blogspot.com
 tudosobreanimais.com.br
