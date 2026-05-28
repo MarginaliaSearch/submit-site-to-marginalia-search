@@ -437,7 +437,7 @@ blog.nawaz.org
 chinafake.wiki
 planty.one
 hossein.me
-http://198.50.213.215:8141/
+http://bluepixelcomputing.com:8141/
 eugentoptic44.codeberg.page
 www.hackerspace.cl
 www.aylett.co.uk
