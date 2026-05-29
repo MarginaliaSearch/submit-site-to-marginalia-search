@@ -66,6 +66,7 @@ sbc.compare
 bret.dk
 freecyb.org
 picolisp.com
+dyer.wtf
 zist.digital
 jmilo.ir
 melin.org
