@@ -34,6 +34,7 @@ envs.net
 codeberg.org
 rss.social
 lumidify.org
+wasi.ovh
 devitti.bz
 hackaday.com
 www.cnx-software.com
@@ -74,6 +75,7 @@ sbc.compare
 bret.dk
 freecyb.org
 picolisp.com
+dyer.wtf
 zist.digital
 jmilo.ir
 melin.org
@@ -253,6 +255,7 @@ maktabquran.com
 www.gotquestions.org
 cmje.org
 asterinas.github.io
+www.closingtags.com
 0x1eef.github.io
 nousresearch.com
 maximilianbenner.com
@@ -367,6 +370,7 @@ cypressure.ink
 polyvalent.nexus
 www.ninjazumbi.com
 garrido.io
+worldofrats.com
 www.eladnarra.com
 invariance.ceu.su
 nizzlay.com
@@ -401,6 +405,7 @@ sin-kulupu.pona.la
 nanpa.la
 len.la
 ijo.la
+yannikbloscheck.com
 niko.cafe
 mati.nekoweb.org
 tea331.neocities.org
@@ -418,6 +423,7 @@ nasin.nimi.li
 wasona.com
 sowelinowe.com
 ggirelli.info
+longevityworldcup.com
 lipuwaso.wordpress.com
 jan-nikola.gitlab.io
 paranormalchicken.github.io
@@ -445,7 +451,7 @@ blog.nawaz.org
 chinafake.wiki
 planty.one
 hossein.me
-http://198.50.213.215:8141/
+http://bluepixelcomputing.com:8141/
 eugentoptic44.codeberg.page
 www.hackerspace.cl
 www.aylett.co.uk
@@ -606,6 +612,7 @@ www.stavros.io
 krishadi.com
 nichobi.com
 kypath.sdf.org
+fyndling.de
 tourdeniu.vonneudeck.com
 zwieb.insomnia247.nl
 nhobb.com
@@ -1046,6 +1053,9 @@ probe-web.ooni.org
 dn42.pp.ua
 cake.avris.it
 aprilkink.home.blog
+ordinarylabs.io
+ordinary.blog
+sean.ordinary.host
 mediathekviewweb.de
 dpidetector.org
 dev.nasserjunior.com
