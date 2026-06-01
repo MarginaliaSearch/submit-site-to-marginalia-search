@@ -286,6 +286,7 @@ lists.alpinelinux.org
 shatelmobile.ir www.karzar.net
 thecaferobot.com
 newtbytes.cc
+synth-ace.proton.gay
 bamprofits.com
 wiki.postmarketos.org
 leomax.fyi
