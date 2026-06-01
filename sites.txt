@@ -353,6 +353,7 @@ www.puppen-paradies.com
 jodie.website
 alv.cx
 notes.alv.cx
+h4x0r.icu
 git.alv.cx
 sowe.li
 samfeldstein.xyz
@@ -442,6 +443,7 @@ beyond40.codeberg.page
 www.cosmicbagel.com
 itsjake.me
 robinkay.uk
+zgit.zist.digital
 awalkaday.art
 book.awalkaday.art
 daqhris.com
@@ -1089,6 +1091,7 @@ ipv6excuses.com
 howtodisableipv6.com
 www.skutecnyinternet.cz
 ipv6.dad
+rootaccess.zist.digital
 whynoipv6.com
 shouldifilteroutput.com
 shouldiblockicmp.com
@@ -1160,6 +1163,7 @@ davidv.dev
 dberard.com
 dekatronpc.com
 espargos.net
+meet.zist.digital
 f1frv.free.fr
 homemadeliquidnitrogen.com
 inkoovintagecomputing.wordpress.com
@@ -1197,6 +1201,7 @@ www.electricstuff.co.uk
 www.evanmeaney.com
 www.frantone.com
 www.k5dkz.com
+zist.digital
 www.kr1st.com
 www.kylescholz.com
 www.mastrogippo.it
