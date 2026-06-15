@@ -954,6 +954,9 @@ rorylawless.com
 riz0me.bearblog.dev
 michaelkupietz.com
 mint.lgbt
+dev.hack.seattle.wa.us
+nix.seattle.wa.us
+osm.seattle.wa.us
 sudovanilla.org
 ducks.party
 kyo.iroiro.party
