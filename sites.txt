@@ -548,6 +548,7 @@ lmke.dev
 simpatico.io
 www.slongo.biz
 marcusb.org
+noaiuse.org
 www.madhadron.com
 ports.serenityos.net
 mkr.pw
@@ -567,6 +568,7 @@ lilahexe.top
 text.lilahexe.top
 flinta.horny.jetzt
 fh-aaachen.de
+sillyserver.win
 teamakes.games
 kolesnikov.se
 elisioneffect.com
