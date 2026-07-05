@@ -62,6 +62,7 @@ sklaffkom.se
 socioflow.net
 paper.wf
 kottke.org
+kowal.dev
 basalam.com
 esam.ir
 qmk.fm
