@@ -1283,6 +1283,7 @@ leshumains.org
 jurisfac.org
 plastic-pollutions.infinityfreeapp.com
 mujarrib.com
+https://retroland.vercel.app
 # Please add new sites to a random line in the list,
 # not all at the end, doing this helps avoid tedious
 # merge conflicts
