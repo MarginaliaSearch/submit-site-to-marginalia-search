@@ -14,6 +14,7 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+1000songs.co.uk
 christophemarois.com
 inmanlawpllc.com
 splectrum.world
