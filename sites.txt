@@ -316,6 +316,7 @@ portal.goeshard.org
 keypoint.ng
 board.goeshard.org
 cashmere.rs
+shellfish.racing
 tylenol.goeshard.org
 goeshard.neocities.org
 bnw.pages.dev
