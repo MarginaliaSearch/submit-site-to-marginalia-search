@@ -400,6 +400,8 @@ mrtno.com
 bb89.nl
 fragglejazz.nl
 blog.philz.dev
+slightly.tech
+wiki.slightly.tech
 philz.dev
 ivankovic.me
 paper-review.net
