@@ -35,6 +35,7 @@ fairplay.video
 vxcc.dev
 envs.net
 codeberg.org
+lyteforcewrites.fyi
 rss.social
 lumidify.org
 wasi.ovh
@@ -376,6 +377,7 @@ notes.alv.cx
 h4x0r.icu
 git.alv.cx
 sowe.li
+lyteforcegames.fyi
 samfeldstein.xyz
 notebook.samfeldstein.xyz
 mado.sh
