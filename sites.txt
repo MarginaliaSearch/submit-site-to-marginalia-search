@@ -39,6 +39,7 @@ lyteforcewrites.fyi
 rss.social
 lumidify.org
 wasi.ovh
+wavect.io
 devitti.bz
 hackaday.com
 treehouse.net
