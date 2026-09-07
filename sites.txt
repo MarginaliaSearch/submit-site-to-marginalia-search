@@ -1312,6 +1312,7 @@ flipstarters.bitcoincash.network
 sillon-fictionnel.club
 pvv.ntnu.no
 wiki.pvv.ntnu.no
+dailyfoot.live
 cs.aviparshan.com
 unitmeasure.xyz
 avi.is-a.dev
