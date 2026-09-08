@@ -300,6 +300,8 @@ support.delta.chat
 mail-archive.freebsd.org
 lists.freebsd.org
 lists.alpinelinux.org
+blog.strangerthanusual.de
+stuff.strangerthanusual.de
 shatelmobile.ir www.karzar.net
 thecaferobot.com
 humanphenotypes.org
