@@ -39,6 +39,6 @@ The 2020s Internet is sadly very adversarial this way.
 # Submitting to Random Exploration
 
 Getting crawled by Marginalia Search does not include a domain in the Exploration mode.  It isn't even necessary.  
-Assuming the serach engine has grabbed a screenshot of the website, you can just click the 'suggest' buttom below and it'll be queued for review.
+Assuming the search engine has grabbed a screenshot of the website, you can just click the 'suggest' buttom below and it'll be queued for review.
 
 <img width="603" height="606" alt="image" src="https://github.com/user-attachments/assets/d3dd2cff-a1ba-4ca1-a6c3-f92f65c2ed16" />
