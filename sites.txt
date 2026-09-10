@@ -44,6 +44,7 @@ lyteforcewrites.fyi
 rss.social
 lumidify.org
 wasi.ovh
+wavect.io
 bsd-audit.com
 devitti.bz
 hackaday.com
