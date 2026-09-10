@@ -1354,6 +1354,7 @@ flipstarters.bitcoincash.network
 sillon-fictionnel.club
 pvv.ntnu.no
 wiki.pvv.ntnu.no
+dailyfoot.live
 dailygeo.live
 geopolitix.live
 cs.aviparshan.com
