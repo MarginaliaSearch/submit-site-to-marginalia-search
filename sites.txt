@@ -14,17 +14,21 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+https://deadinternet.theater
 1000songs.co.uk
 christophemarois.com
 inmanlawpllc.com
 splectrum.world
 7thmagpie.xyz
 giraffai.com
+stevefenton.co.uk
 lyk.so
 techdic.ir
 muhammadindar.my.id
 gardasys.biz.id
 horizononlinetherapy.com
+vermaden.wordpress.com
+meanmicio.org
 crepa.pages.dev
 ilikeaccounting.com
 thebsideofeverything.com
@@ -33,6 +37,7 @@ nayvori.netlify.app
 golemrottsearch.netlify.app
 fairplay.video
 vxcc.dev
+4tw.se
 envs.net
 codeberg.org
 lyteforcewrites.fyi
@@ -40,6 +45,7 @@ rss.social
 lumidify.org
 wasi.ovh
 wavect.io
+bsd-audit.com
 devitti.bz
 hackaday.com
 treehouse.net
@@ -62,11 +68,13 @@ whoisrowanblack.com
 docs.espressif.com
 espressif.com
 birthbydrip.neocities.org
+butterbei.de
 taamoq.ir
 chrisdempewolf.com
 sklaffkom.se
 socioflow.net
 paper.wf
+halloranparry.com
 kottke.org
 kowal.dev
 basalam.com
@@ -82,11 +90,33 @@ forums.debian.org
 zist.digital
 rootaccess.zist.digital
 sbc.compare
+lainlife.org
+wiki.lainlife.org
+xmpp.lainlife.org
+voice.lainlife.org
+wiki.lainlife.org
+yureki.ru
+booru.yureki.ru
+мудец.рф
+xhubim.ru
+diffemergweb.byethost5.com
+nikkyhika.w10.site
+ockolus.neocities.org
+zaraz7.w10.site
+luxfero.su
+hydnell.neocities.org
+karakuliiii.neocities.org
+mozgoschturm.neocities.org
+cyanmargh.neocities.org
+lorelpage.neocities.org
+savelius.nekoweb.org
+vcfg-softworks.do.am
 bret.dk
 freecyb.org
 picolisp.com
 dyer.wtf
 zist.digital
+linux.vooreenbeginner.nl
 jmilo.ir
 melin.org
 gpbib.cs.ucl.ac.uk
@@ -106,6 +136,7 @@ mohamaddarvishi.ir
 strukturart.com
 stellarweb.space
 adriann.github.io
+opensource.vooreenbeginner.nl
 www.xteink.com
 goodereader.com
 mymeebook.com
@@ -117,6 +148,7 @@ blog.coderspirit.xyz
 video.kayzoka.net
 slice4d.info
 distrust.co
+vobar.eu
 ssjco.ir
 roguesecurity.dev
 mitatefe.bearblog.dev
@@ -129,6 +161,7 @@ tarhvar.com
 bitcoincashcode.org
 urbanidea.id
 ultracrepidarian.phfactor.net
+michaelboelen.com
 fabis.space
 notfromhere.fyi
 www.johnwalker.nl
@@ -202,6 +235,11 @@ npd-voran.de
 spamshit.org
 turtlecute.org
 trivox.sh
+braxo.se
+nordicmessaging.se
+form2pdf.se
+smpp.com
+smssubmit.se
 rettilatdø.dk
 www.empatia.uy
 bluechinchompa.com
@@ -272,6 +310,7 @@ www.bazargan.com
 adyan-iran.com
 maktabquran.com
 www.gotquestions.org
+www.wap.ad/html/
 cmje.org
 asterinas.github.io
 www.closingtags.com
@@ -286,6 +325,7 @@ manualdousuario.net
 tuxilio.codeberg.page
 dewvintheshell.com
 secu.pages.dev
+dreamingtogether.net
 joeyshi.xyz
 robkohr.com
 himwant.org
@@ -301,6 +341,8 @@ support.delta.chat
 mail-archive.freebsd.org
 lists.freebsd.org
 lists.alpinelinux.org
+blog.strangerthanusual.de
+stuff.strangerthanusual.de
 shatelmobile.ir www.karzar.net
 thecaferobot.com
 humanphenotypes.org
@@ -322,6 +364,7 @@ keypoint.ng
 board.goeshard.org
 cashmere.rs
 shellfish.racing
+farhang.im
 tylenol.goeshard.org
 goeshard.neocities.org
 bnw.pages.dev
@@ -404,6 +447,7 @@ invariance.ceu.su
 nizzlay.com
 ratatoskr.run
 mrtno.com
+arirangpost.com
 bb89.nl
 fragglejazz.nl
 blog.philz.dev
@@ -424,6 +468,7 @@ cerisetalis.com
 groenlinks.nl
 tubantia.nl
 bablr.org
+frank.fyi
 fsolt.es
 pona.la
 www.wikitolica.com
@@ -494,8 +539,10 @@ www.hackerspace.cl
 www.aylett.co.uk
 wronex.com
 strangereons.com
+klarbelegt.de
 kanoe.yuuko.eu
 wiki.postmarketos.org
+fivethankyous.org
 anita.garden
 postmarketos.org
 unlocksaas.com
@@ -517,6 +564,7 @@ afol55.afol.lu
 berlinbricksyndicate.de
 brisy.fr
 quelug.org
+enfilade.guide
 bloksforum.freeforums.net
 www.ron-stoppable.de
 gate-raider.de.tl
@@ -525,6 +573,7 @@ digimon-world.de
 www.metallbaukasten-forum.de
 diddl-fans.livejournal.com
 www.metamibs.com
+https://kodex.academy/
 wiki.lotrtcgpc.net
 recorant.com
 jadi.net
@@ -588,6 +637,7 @@ epilogue.team
 neter.fi
 rukii.net
 covacha.net.ar
+aberle.photo
 explainxkcd.com
 galaxy.click
 justapa.thologi.st
@@ -629,6 +679,7 @@ www.ausiastsel.com
 currentaffairs.ng
 www.zenodot.app
 paperclipmaximizer.net
+mertineit.org
 www.2uo.de
 spitlo.com
 blog.plain.technolog
@@ -665,6 +716,7 @@ kypath.sdf.org
 fyndling.de
 tourdeniu.vonneudeck.com
 elnuevocreadortecnico.com
+rafaelpfister.ch
 zwieb.insomnia247.nl
 nhobb.com
 autisticasfxxk.com
@@ -679,6 +731,12 @@ eplg.services
 iondrive.co
 emmytherobot.wiki
 sglmr.com
+decodeckgame.com
+picolibrary.com
+highmountainabbey.com
+novalis.org
+surfwords.com
+mosaicriver.fun
 expara.social
 refereeingandreflection.wordpress.com
 www.quaddicted.com
@@ -694,12 +752,17 @@ holzer.online
 laravista.altervista.org/L8x/searchdown
 www.bytefish.de
 bouncepaw.com
+therailwire.net
+seattlebus.space
+trolley.seattlebus.space
+www.spookshow.net
 jak2k.schwanenberg.name
 garden.bouncepaw.com
 reykjalin.org
 aogavrilov.com
 links.bouncepaw.com
 saraf.iwl.pub
+inspect.software
 evrim.zone
 icanpathfinder.com
 mycorrhiza.wiki
@@ -725,6 +788,7 @@ purserclub.com
 arunwadhwa.com
 srijan.ch
 ottomannews.com
+ayari.neocities.org
 pub.colonq.computer
 andrejradovic.com
 kyudosudoku.timwi.de
@@ -833,6 +897,7 @@ lovelydumpling.nekoweb.org
 mopacic.net
 mcpar.land
 ziit.app
+cosmyday.com
 graphicalmethods.com
 redterminal.org
 www.listenfaster.com
@@ -843,6 +908,7 @@ pastquestions.ng
 dvdnerd.neocities.org
 a-blue-in-a-sea-of-reds.neocities.org
 releases.bruta.link
+https://everydaycontentment.com
 www.cerealously.net
 bionicle.gay
 5min.ninja
@@ -854,9 +920,12 @@ ckhollidayplans.com
 https://www.kinkspec.com
 fermi.chat
 blog.fermi.chat
+melodychat.org
+docs.melodychat.org
 frockflicks.com
 scottdriggers.com
 nauman.im
+ormai.me
 moth.monster
 asozial.org
 nleanba.ch
@@ -950,6 +1019,7 @@ www.cvennevik.no
 freesteamtables.com
 linuxpréinstallé.com
 thermodynamique.fr
+endearist.com
 jacobfilipp.com
 birla.io
 kusoneko.moe
@@ -1086,6 +1156,7 @@ xylavia.com
 www.duckiversum.de
 annethology.free.fr
 spinatmaedchen.com
+blog.yoshiwalsh.me
 diddlfriends.org
 sylvies-diddlpimboli-seiten.beepworld.de
 anja-goes-online.beepworld.de
@@ -1146,6 +1217,7 @@ www.timandraka.com
 ipv6buddy.com
 www.skeletonclaw.com
 sql-island.informatik.uni-kl.de
+psychedex.org
 michael-buschbeck.github.io
 rosenpass.eu
 cuiiliste.de
@@ -1220,6 +1292,7 @@ sternenwanderer.github.io
 r0b.bearblog.dev
 tombrandis.uk
 blog.shr4pnel.com
+deepswapai.com
 willgrant.org
 amit.prasad.me
 blog.zorinaq.com
@@ -1227,6 +1300,9 @@ bloodsweatandsolder.blogspot.com
 boginjr.com
 charlesouweland.wordpress.com
 danyk.cz
+trains.com
+www.devhack.net
+bitsavers.trailing-edge.com
 datagubbe.se
 davidv.dev
 dberard.com
@@ -1254,12 +1330,16 @@ waectimetable.com
 sgitheach.org.uk
 silent.org.pl
 slomkowski.eu
+melvin-gundlach.de
 sparkbangbuzz.com
 stare.pro
 techblog.vsza.hu
 transistor-man.com
 trmm.net
 uzzors2k.4hv.org
+www.schwarzvogel.de
+books.i-no.de
+rev-amp.i-no.de
 vexillium.org
 whiteboard.ping.se
 www.b-kainka.de
@@ -1274,6 +1354,7 @@ www.k5dkz.com
 zist.digital
 www.kr1st.com
 www.kylescholz.com
+faceswapai.com
 www.mastrogippo.it
 www.plasmaspeaker.de
 www.repairfaq.org
@@ -1313,11 +1394,15 @@ flipstarters.bitcoincash.network
 sillon-fictionnel.club
 pvv.ntnu.no
 wiki.pvv.ntnu.no
+dailyfoot.live
+dailygeo.live
+geopolitix.live
 cs.aviparshan.com
 unitmeasure.xyz
 avi.is-a.dev
 sales.aviparshan.com
 akshitgaur2005.github.io
+https://jairaj1234-dancer.github.io/nighantu/
 http://bluepixelcomputing.com:8141/
 oxyn.org
 maxisodenoth.neocities.org
@@ -1342,3 +1427,4 @@ https://retroland.vercel.app
 # Please add new sites to a random line in the list,
 # not all at the end, doing this helps avoid tedious
 # merge conflicts
+
