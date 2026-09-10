@@ -120,6 +120,7 @@ blog.coderspirit.xyz
 video.kayzoka.net
 slice4d.info
 distrust.co
+vobar.eu
 ssjco.ir
 roguesecurity.dev
 mitatefe.bearblog.dev
