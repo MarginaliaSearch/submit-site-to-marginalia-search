@@ -39,6 +39,7 @@ lyteforcewrites.fyi
 rss.social
 lumidify.org
 wasi.ovh
+bsd-audit.com
 devitti.bz
 hackaday.com
 treehouse.net
@@ -86,6 +87,7 @@ freecyb.org
 picolisp.com
 dyer.wtf
 zist.digital
+linux.vooreenbeginner.nl
 jmilo.ir
 melin.org
 gpbib.cs.ucl.ac.uk
@@ -105,6 +107,7 @@ mohamaddarvishi.ir
 strukturart.com
 stellarweb.space
 adriann.github.io
+opensource.vooreenbeginner.nl
 www.xteink.com
 goodereader.com
 mymeebook.com
@@ -128,6 +131,7 @@ tarhvar.com
 bitcoincashcode.org
 urbanidea.id
 ultracrepidarian.phfactor.net
+michaelboelen.com
 fabis.space
 notfromhere.fyi
 www.johnwalker.nl
