@@ -1290,6 +1290,7 @@ sternenwanderer.github.io
 r0b.bearblog.dev
 tombrandis.uk
 blog.shr4pnel.com
+deepswapai.com
 willgrant.org
 amit.prasad.me
 blog.zorinaq.com
@@ -1351,6 +1352,7 @@ www.k5dkz.com
 zist.digital
 www.kr1st.com
 www.kylescholz.com
+faceswapai.com
 www.mastrogippo.it
 www.plasmaspeaker.de
 www.repairfaq.org
@@ -1423,3 +1425,4 @@ https://retroland.vercel.app
 # Please add new sites to a random line in the list,
 # not all at the end, doing this helps avoid tedious
 # merge conflicts
+
