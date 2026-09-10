@@ -704,6 +704,10 @@ holzer.online
 laravista.altervista.org/L8x/searchdown
 www.bytefish.de
 bouncepaw.com
+therailwire.net
+seattlebus.space
+trolley.seattlebus.space
+www.spookshow.net
 jak2k.schwanenberg.name
 garden.bouncepaw.com
 reykjalin.org
@@ -1238,6 +1242,9 @@ bloodsweatandsolder.blogspot.com
 boginjr.com
 charlesouweland.wordpress.com
 danyk.cz
+trains.com
+www.devhack.net
+bitsavers.trailing-edge.com
 datagubbe.se
 davidv.dev
 dberard.com
