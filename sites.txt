@@ -20,11 +20,14 @@ inmanlawpllc.com
 splectrum.world
 7thmagpie.xyz
 giraffai.com
+stevefenton.co.uk
 lyk.so
 techdic.ir
 muhammadindar.my.id
 gardasys.biz.id
 horizononlinetherapy.com
+vermaden.wordpress.com
+meanmicio.org
 crepa.pages.dev
 ilikeaccounting.com
 thebsideofeverything.com
@@ -33,12 +36,14 @@ nayvori.netlify.app
 golemrottsearch.netlify.app
 fairplay.video
 vxcc.dev
+4tw.se
 envs.net
 codeberg.org
 lyteforcewrites.fyi
 rss.social
 lumidify.org
 wasi.ovh
+bsd-audit.com
 devitti.bz
 hackaday.com
 treehouse.net
@@ -61,11 +66,13 @@ whoisrowanblack.com
 docs.espressif.com
 espressif.com
 birthbydrip.neocities.org
+butterbei.de
 taamoq.ir
 chrisdempewolf.com
 sklaffkom.se
 socioflow.net
 paper.wf
+halloranparry.com
 kottke.org
 kowal.dev
 basalam.com
@@ -86,6 +93,7 @@ freecyb.org
 picolisp.com
 dyer.wtf
 zist.digital
+linux.vooreenbeginner.nl
 jmilo.ir
 melin.org
 gpbib.cs.ucl.ac.uk
@@ -105,6 +113,7 @@ mohamaddarvishi.ir
 strukturart.com
 stellarweb.space
 adriann.github.io
+opensource.vooreenbeginner.nl
 www.xteink.com
 goodereader.com
 mymeebook.com
@@ -116,6 +125,7 @@ blog.coderspirit.xyz
 video.kayzoka.net
 slice4d.info
 distrust.co
+vobar.eu
 ssjco.ir
 roguesecurity.dev
 mitatefe.bearblog.dev
@@ -128,6 +138,7 @@ tarhvar.com
 bitcoincashcode.org
 urbanidea.id
 ultracrepidarian.phfactor.net
+michaelboelen.com
 fabis.space
 notfromhere.fyi
 www.johnwalker.nl
@@ -201,6 +212,11 @@ npd-voran.de
 spamshit.org
 turtlecute.org
 trivox.sh
+braxo.se
+nordicmessaging.se
+form2pdf.se
+smpp.com
+smssubmit.se
 rettilatdø.dk
 www.empatia.uy
 bluechinchompa.com
@@ -300,6 +316,8 @@ support.delta.chat
 mail-archive.freebsd.org
 lists.freebsd.org
 lists.alpinelinux.org
+blog.strangerthanusual.de
+stuff.strangerthanusual.de
 shatelmobile.ir www.karzar.net
 thecaferobot.com
 humanphenotypes.org
@@ -321,6 +339,7 @@ keypoint.ng
 board.goeshard.org
 cashmere.rs
 shellfish.racing
+farhang.im
 tylenol.goeshard.org
 goeshard.neocities.org
 bnw.pages.dev
@@ -423,6 +442,7 @@ cerisetalis.com
 groenlinks.nl
 tubantia.nl
 bablr.org
+frank.fyi
 fsolt.es
 pona.la
 www.wikitolica.com
@@ -495,6 +515,7 @@ wronex.com
 strangereons.com
 kanoe.yuuko.eu
 wiki.postmarketos.org
+fivethankyous.org
 anita.garden
 postmarketos.org
 unlocksaas.com
@@ -678,6 +699,12 @@ eplg.services
 iondrive.co
 emmytherobot.wiki
 sglmr.com
+decodeckgame.com
+picolibrary.com
+highmountainabbey.com
+novalis.org
+surfwords.com
+mosaicriver.fun
 expara.social
 refereeingandreflection.wordpress.com
 www.quaddicted.com
@@ -693,6 +720,10 @@ holzer.online
 laravista.altervista.org/L8x/searchdown
 www.bytefish.de
 bouncepaw.com
+therailwire.net
+seattlebus.space
+trolley.seattlebus.space
+www.spookshow.net
 jak2k.schwanenberg.name
 garden.bouncepaw.com
 reykjalin.org
@@ -853,9 +884,12 @@ ckhollidayplans.com
 https://www.kinkspec.com
 fermi.chat
 blog.fermi.chat
+melodychat.org
+docs.melodychat.org
 frockflicks.com
 scottdriggers.com
 nauman.im
+ormai.me
 moth.monster
 asozial.org
 nleanba.ch
@@ -1085,6 +1119,7 @@ xylavia.com
 www.duckiversum.de
 annethology.free.fr
 spinatmaedchen.com
+blog.yoshiwalsh.me
 diddlfriends.org
 sylvies-diddlpimboli-seiten.beepworld.de
 anja-goes-online.beepworld.de
@@ -1226,6 +1261,9 @@ bloodsweatandsolder.blogspot.com
 boginjr.com
 charlesouweland.wordpress.com
 danyk.cz
+trains.com
+www.devhack.net
+bitsavers.trailing-edge.com
 datagubbe.se
 davidv.dev
 dberard.com
@@ -1253,12 +1291,16 @@ waectimetable.com
 sgitheach.org.uk
 silent.org.pl
 slomkowski.eu
+melvin-gundlach.de
 sparkbangbuzz.com
 stare.pro
 techblog.vsza.hu
 transistor-man.com
 trmm.net
 uzzors2k.4hv.org
+www.schwarzvogel.de
+books.i-no.de
+rev-amp.i-no.de
 vexillium.org
 whiteboard.ping.se
 www.b-kainka.de
@@ -1313,11 +1355,13 @@ sillon-fictionnel.club
 pvv.ntnu.no
 wiki.pvv.ntnu.no
 dailygeo.live
+geopolitix.live
 cs.aviparshan.com
 unitmeasure.xyz
 avi.is-a.dev
 sales.aviparshan.com
 akshitgaur2005.github.io
+https://jairaj1234-dancer.github.io/nighantu/
 http://bluepixelcomputing.com:8141/
 oxyn.org
 maxisodenoth.neocities.org
