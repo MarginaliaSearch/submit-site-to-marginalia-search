@@ -50,6 +50,7 @@ bsd-audit.com
 devitti.bz
 hackaday.com
 treehouse.net
+pageaudit.online
 savemystuff.net
 www.cnx-software.com
 brosnung.blogspot.com
@@ -245,8 +246,10 @@ catarchy.space
 mycheap.host
 egee.xyz
 egee.io
+hookpulse.net
 schlep.tv
 eatfatchips.com
+radar-cnpj.com
 lumaeris.com
 aishiteiru.moe
 dcs0.hu
@@ -458,6 +461,7 @@ larsbarnabee.com
 teifiwoodworker.co.uk
 www.ivndbt.com
 10maurycy10.github.io
+pontofato.com
 cypressure.ink
 polyvalent.nexus
 www.ninjazumbi.com
@@ -639,6 +643,7 @@ agney.dev
 blog.movimento-centrale.it
 www.stegriff.co.uk
 carlseleborg.com
+editalmd.com
 sugradh.com
 thoughtcrime.moe
 deviaan.online
@@ -719,6 +724,7 @@ chiroetsn.xyz
 music.nthia.dev
 wolfgirl.dev
 phoki.neocities.org
+gradetv.net
 townsvillages.com
 skylarhill.me
 gwenpri.me
@@ -866,6 +872,7 @@ www.hra-news.org
 bitcoin-vps.com
 mehrnews.com
 txt.basspistol.org
+agentalog.com
 sakrecoer.com
 blackilykat.dev
 recursewithless.net
@@ -1223,6 +1230,7 @@ dn42.de
 probe-web.ooni.org
 dn42.pp.ua
 cake.avris.it
+okfindex.com
 aprilkink.home.blog
 ordinarylabs.io
 ordinary.blog
@@ -1354,6 +1362,7 @@ sakamoto.pl
 scopeboy.com
 waectimetable.com
 sgitheach.org.uk
+commsharbor.com
 silent.org.pl
 slomkowski.eu
 melvin-gundlach.de
