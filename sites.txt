@@ -377,6 +377,7 @@ xcloud.host
 startise.com
 wpdeveloper.com
 templately.com
+https://pairwisepro.com
 gadgetkitten.rocks
 easy.jobs
 technetcloud.host
@@ -570,6 +571,7 @@ www.ron-stoppable.de
 gate-raider.de.tl
 world-like-sims.de.tl
 digimon-world.de
+caliandro.de
 www.metallbaukasten-forum.de
 diddl-fans.livejournal.com
 www.metamibs.com
@@ -714,6 +716,7 @@ krishadi.com
 nichobi.com
 kypath.sdf.org
 soliloquy.live
+rodamora.com
 fyndling.de
 tourdeniu.vonneudeck.com
 elnuevocreadortecnico.com
@@ -1076,6 +1079,7 @@ mirohlichan.net
 alterchan.net
 staffas.org
 4get.ch
+2m.lt
 imstillthinking.net
 lunar.icu
 hbubli.cc
