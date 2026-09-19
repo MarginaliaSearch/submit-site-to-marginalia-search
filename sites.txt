@@ -377,6 +377,7 @@ xcloud.host
 startise.com
 wpdeveloper.com
 templately.com
+https://pairwisepro.com
 gadgetkitten.rocks
 easy.jobs
 technetcloud.host
