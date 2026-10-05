@@ -1636,7 +1636,7 @@ www.lociterm.com
 forwardemail.net
 puffballfungus.neocities.org
 alexelyukov.ru
-enmkdev.neocities.org
+enmkdev.codeberg.page
 bhankas.org
 xnacly.me
 dempewolfapps.com
