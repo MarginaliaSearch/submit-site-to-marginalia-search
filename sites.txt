@@ -14,7 +14,7 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
-https://deadinternet.theater
+deadinternet.theater
 1000songs.co.uk
 acropassport.com
 acrowithkwame.com
@@ -23,12 +23,14 @@ coreconnexion.co.uk
 bloominthebay.com
 therabestie.com
 thecooksatelier.com
+hancheybambooresort.org
 boutique.thecooksatelier.com
 clapyourwings.com
 n3wangle.com
 yogateachersunion.co.uk
 southlondonacro.co.uk
 londonacro.co.uk
+london-installations.co.uk
 christophemarois.com
 inmanlawpllc.com
 www.stxerr.dev
@@ -797,6 +799,8 @@ journalhosting.ucalgary.ca
 leidlmair.at
 stephenwolfram.com
 acshist.scs.illinois.edu
+archive.genocide
+genocide.live
 act-r.psy.cmu.edu
 actu.epfl.ch
 www.actuaries.org.uk
