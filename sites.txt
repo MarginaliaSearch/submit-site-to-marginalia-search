@@ -16,6 +16,19 @@
 # Sites To Add:
 https://deadinternet.theater
 1000songs.co.uk
+acropassport.com
+acrowithkwame.com
+kwameand.co
+coreconnexion.co.uk
+bloominthebay.com
+therabestie.com
+thecooksatelier.com
+boutique.thecooksatelier.com
+clapyourwings.com
+n3wangle.com
+yogateachersunion.co.uk
+southlondonacro.co.uk
+londonacro.co.uk
 christophemarois.com
 inmanlawpllc.com
 www.stxerr.dev
@@ -71,6 +84,7 @@ www.raspberrypi.com
 gp2040-ce.info
 scoped-tech.github.io
 ancap.su
+fittedlifestyles.com
 luanti.org
 servedwithrice.com
 forum.luanti.org
@@ -90,6 +104,7 @@ halloranparry.com
 kottke.org
 kowal.dev
 essaycompass.net
+joleneliam.com
 basalam.com
 esam.ir
 qmk.fm
