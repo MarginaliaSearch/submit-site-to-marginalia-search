@@ -8,13 +8,14 @@
 # www.example.com
 #   ... is sufficient
 
-# Note:  Feel free to add the domain anywhere in the list, preferrably not at the beginning or the end,
-# as this reduces the likelihood of a conflict in github.  Makes it easier to merge.
+# Note:  Feel free to add the domain anywhere in the list, preferably not at the beginning or the end,
+# as this reduces the likelihood of a conflict in Github.  Makes it easier to merge.
 
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
 https://deadinternet.theater
+selfhostcat.com
 1000songs.co.uk
 christophemarois.com
 inmanlawpllc.com
