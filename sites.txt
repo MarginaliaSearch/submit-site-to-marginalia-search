@@ -1698,6 +1698,7 @@ loculus.org
 auxv.org
 makarevitch.com
 nextstrain.org
+lightyearlabs.ca
 randomdailyurls.com
 wtfhappened2012.com
 setto.basspistol.com
