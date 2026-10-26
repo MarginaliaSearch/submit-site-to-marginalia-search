@@ -430,6 +430,7 @@ posttext.pl
 firous.com
 kovasignal.com
 clouatre.ca
+davethediver.net
 ellacollier.com
 thatonecoder.codeberg.page
 immibis.com
