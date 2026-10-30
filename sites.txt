@@ -1491,6 +1491,7 @@ sites.tufts.edu
 www.sixthtone.com
 sj.jst.go.jp
 smc.neuralcorrelate.com
+softmachine.dev
 www.softwarehistory.org
 www.sonicity.cz
 sousamendesfoundation.org
