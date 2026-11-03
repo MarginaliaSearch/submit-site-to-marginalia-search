@@ -609,6 +609,7 @@ mission-enrollment.daqhris.com
 blog.nawaz.org
 chinafake.wiki
 planty.one
+fullcourtbuckets.com
 hossein.naghdbishi.com
 http://bluepixelcomputing.com:8141/
 eugentoptic44.codeberg.page
@@ -1201,6 +1202,7 @@ www.instructionaldesign.org
 intellectica.org
 www.internationalphoneticassociation.org
 www.internetsociety.org
+ryanmoalemi.app
 www.intuitionnetwork.org
 terraphim.ai
 www.invent.org
