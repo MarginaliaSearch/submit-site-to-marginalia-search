@@ -14,6 +14,11 @@
 # Sites will be fetched and crawled from this list
 
 # Sites To Add:
+obscuraweb.vercel.app
+xioth.neocities.org
+cemeterychatroom.web.app
+urbindex.com
+numbpilled-themes.neocities.org
 selfhostcat.com
 deadinternet.theater
 1000songs.co.uk
