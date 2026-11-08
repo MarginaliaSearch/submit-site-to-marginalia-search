@@ -820,6 +820,7 @@ leidlmair.at
 stephenwolfram.com
 acshist.scs.illinois.edu
 archive.genocide
+gen2.space
 genocide.live
 act-r.psy.cmu.edu
 actu.epfl.ch
