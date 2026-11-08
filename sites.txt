@@ -63,6 +63,7 @@ gardasys.biz.id
 horizononlinetherapy.com
 vermaden.wordpress.com
 meanmicio.org
+furnifindusa.com
 crepa.pages.dev
 macborn.com
 ilikeaccounting.com
@@ -916,6 +917,7 @@ www.britishnotes.co.uk
 www.bruegel.org
 bsi-ni.brain.riken.jp
 bsuva.org
+depot.fitness
 cacm.acm.org
 cameron.stream
 cap-lore.com
@@ -1223,6 +1225,7 @@ jewishaction.com
 jewishideasdaily.com
 jjmilt.substack.com
 joecirincione.substack.com
+wine.equipment
 joesec.me
 johnmjennings.com
 jorge.physics.ucsd.edu
@@ -1343,6 +1346,7 @@ www.nonviolent-conflict.org
 notes.andymatuschak.org
 nsarchive2.gwu.edu
 ntrs.nasa.gov
+72fm.com
 nvd.nist.gov
 www.nybooks.com
 nyccivilrightshistory.org
@@ -1579,6 +1583,7 @@ www.winchesternewsgazette.com
 www.wopc.co.uk
 work.caltech.edu
 world-nuclear.org
+namesale.store
 wrap.warwick.ac.uk
 www.writingsbyraykurzweil.com
 wwcd.org
@@ -1847,6 +1852,7 @@ scottdriggers.com
 nauman.im
 ormai.me
 moth.monster
+events.lat
 asozial.org
 nleanba.ch
 hugolee.xyz
@@ -2268,6 +2274,7 @@ slomkowski.eu
 melvin-gundlach.de
 sparkbangbuzz.com
 stare.pro
+loftloom.com
 techblog.vsza.hu
 transistor-man.com
 trmm.net
