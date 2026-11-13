@@ -2373,3 +2373,22 @@ www.meowtool.com
 # Please add new sites to a random line in the list,
 # not all at the end, doing this helps avoid tedious
 # merge conflicts
+https://us.wow.huzy.net/
+https://tw.wow.huzy.net/
+https://ko.wow.huzy.net/
+https://foodmap.huzy.net/
+https://terrapulse.huzy.net/
+https://star.huzy.net/
+https://land.huzy.net/
+https://care.huzy.net/
+https://medimap.huzy.net/
+https://kidsmap.huzy.net/
+https://petmap.huzy.net/
+https://car.huzy.net/
+https://dayoffly.huzy.net/
+https://saju.huzy.net/
+https://huzy.net/
+https://eu.wow.huzy.net/
+https://tools.huzy.net/
+https://tour.huzy.net/
+https://yori.huzy.net/
