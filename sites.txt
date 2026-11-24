@@ -1184,6 +1184,7 @@ genepi.qimr.edu.au
 www.geneticsandsociety.org
 george-lakoff.com
 www.globalsecurity.org
+www.glowwords.dev
 goodscienceproject.org
 www.graphics.cornell.edu
 www.gsb.stanford.edu
