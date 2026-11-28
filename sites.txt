@@ -73,6 +73,7 @@ golemrottsearch.netlify.app
 fairplay.video
 vxcc.dev
 4tw.se
+createyourefuture.com
 envs.net
 codeberg.org
 lyteforcewrites.fyi
@@ -405,6 +406,7 @@ xferok.com
 slomkowski.eu
 postmarketos.org
 esam.ir
+1920agency.com
 1984.hosting
 privex.io
 delta.chat
@@ -484,6 +486,7 @@ ninimotom.com
 cogilabs.eu
 frvser.com
 www.himstedt-dolls.com
+raptordownloader.com
 www.himstedt-puppen.de
 lespoupeesdesophie.com
 www.himstedtheaven.com
@@ -1486,6 +1489,7 @@ pure.teikyo.jp
 pure.uva.nl
 www.quantamagazine.org
 quoteinvestigator.com
+rntechassociates.com
 raft.github.io
 www.raggedbanner.com
 rajiv.com
@@ -1610,6 +1614,7 @@ tworivertimes.com
 twu.edu
 www.uffmm.org
 ufos-scientificresearch.blogspot.com
+psxascend.ai
 www.ukaaf.org
 uknow.uky.edu
 www.umass.edu
@@ -1625,6 +1630,7 @@ www.usni.org
 www.utoday.nl
 www.uvm.edu
 www.vaclavhavel.cz
+progenaesthetics.com
 www.vatican.va
 vdgs.org.uk
 verlag.oeaw.ac.at
@@ -1902,6 +1908,7 @@ www.stranatesta.eu
 ckhollidayplans.com
 https://www.kinkspec.com
 fermi.chat
+simpleonlinecounter.com
 blog.fermi.chat
 melodychat.org
 docs.melodychat.org
@@ -2254,6 +2261,7 @@ www.dewar.nl
 www.meetjestad.net
 www.fablabamersfoort.nl
 www.koppelting.org
+knightsbridgehealthcare.com
 www.aketawi.space/home
 www.write-on.org
 bruchbuehne.de
