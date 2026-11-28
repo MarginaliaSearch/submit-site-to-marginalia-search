@@ -1199,6 +1199,7 @@ harry-lewis.blogspot.com
 www.harvardlds.org
 harvardtechnologyreview.com
 www.haverford.edu
+shortobsessions.com
 www.hbs.edu
 hci.ucsd.edu
 heatonhistorygroup.org
@@ -1497,6 +1498,7 @@ reasoning.psych.ucla.edu
 redwood.berkeley.edu
 www.reimaginethepast.org
 www.religion-online.org
+kivi.studio
 remm.hhs.gov
 ren.phytertek.com
 www.repository.cam.ac.uk
